@@ -1,0 +1,1006 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Y trydydd at pedvvaredd Gorchymynnion. Wedi ei traethu mewn pegethau [sic] gan William Jones Gwenidog ei Grist yn yr efengyl yn Nhy Ddewi, ag yn awr gwedi ei gwneuthur yn gyffred in er mwyn rhybyddio y Cyfryw rai or Cymru ag ydynt drwy gam-arfer yn diystyru henw Duw ac yn halo gi ei Sabboth fel gwedi ei ceryddu yngwydd pawb y cywilyddiant ei pechod au neu or lleiaf, fel yr ofna rhai erail gyd-ddwyn a hwynt yn y fath bethau.</title>
+            <author>Jones, William, fl. 1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87349</idno>
+            <idno type="STC">Wing J1005</idno>
+            <idno type="STC">Thomason E859_3</idno>
+            <idno type="STC">ESTC R206632</idno>
+            <idno type="EEBO-CITATION">99865751</idno>
+            <idno type="PROQUEST">99865751</idno>
+            <idno type="VID">118002</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118002)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E859[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Y trydydd at pedvvaredd Gorchymynnion. Wedi ei traethu mewn pegethau [sic] gan William Jones Gwenidog ei Grist yn yr efengyl yn Nhy Ddewi, ag yn awr gwedi ei gwneuthur yn gyffred in er mwyn rhybyddio y Cyfryw rai or Cymru ag ydynt drwy gam-arfer yn diystyru henw Duw ac yn halo gi ei Sabboth fel gwedi ei ceryddu yngwydd pawb y cywilyddiant ei pechod au neu or lleiaf, fel yr ofna rhai erail gyd-ddwyn a hwynt yn y fath bethau.</title>
+                  <author>Jones, William, fl. 1655.</author>
+               </titleStmt>
+               <extent>[4], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John WIlliams at the signe of the Crown in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656 [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication (signed by author) in English; both texts in Welsh.</note>
+                  <note>Annotation on Thomason copy: "2 welsh. sermons Novemb: 10"; the 6 in the imprint date has been crossed out and replaced with a "5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  O.T. --  Exodus XX, 7-11 --  Sermons.</term>
+               <term>Sermons, Welsh --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118002:1" rendition="simple:additions"/>
+            <p>Y TRYDYDD AR PEDVVAREDD GORCHYMYNNION.</p>
+            <p>Wedi ei traethu mewn pegethau gan Willi<g ref="char:EOLhyphen"/>am Jones Gwenidog ei Griſt yn yr efen<g ref="char:EOLhyphen"/>gyl yn Nhy Ddewi, ag yn awr gwedi ei gwneuthur yn gyffred<g ref="char:EOLunhyphen"/>in er mwyn rhy<g ref="char:EOLhyphen"/>byddio y Cyfryw rai or Cymru ag ydynt drwy gam-arfer yn diyſtyru henw Duw ac yn halo<g ref="char:EOLunhyphen"/>gi ei Sabboth fel gwedi ei ce<g ref="char:EOLhyphen"/>ryddu yngwydd pawb y cywilyddiant ei pechod au neu or lleiaf, fel yr ofna rhai erail gyd-ddwyn a hwynt yn y fath be<g ref="char:EOLhyphen"/>thau.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 29.2.</hi>
+               </bibl>
+               <p>Moeſwch ir Arglwydd ogoniant ei enw.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Williams</hi> at the ſigne of the Crown in St. <hi>Paul</hi>'s Church-yard, <date>1656.</date>
+            </p>
+         </div>
+         <div xml:lang="eng" type="dedication">
+            <pb facs="tcp:118002:2"/>
+            <pb facs="tcp:118002:2" rendition="simple:additions"/>
+            <head>To the truly Religious, and vertuous Lady, the Lady <hi>KATHARINE OWEN,</hi> Wife to Sr. <hi>Hugh Owen,</hi> Knight and Baronet, Grace, Mercy and Peace be multiplied, from God our Father, and from our Lord <hi>JES<g ref="char:V">Ʋ</g>S CHRIST.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I first intended to publiſh theſe unwor<g ref="char:EOLhyphen"/>thy Sermons, I did not thinke them fit to be Dedicated to any (much l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe unto you) or to bear any other name, ſave mine own; but afterwards, conſidering that the Vul<g ref="char:EOLhyphen"/>gar people would hardly be moved to look into them, ex<g ref="char:EOLhyphen"/>cept they did beare ſome good name before them, and knowing no name of better acceptation then your Ladi<g ref="char:EOLhyphen"/>ſhips, I have been bold to uſe it, and that for divers rea<g ref="char:EOLhyphen"/>ſons: to paſſe by the maine and great obligation, where<g ref="char:EOLhyphen"/>with I am bound unto your Ladiſhip, for which theſe weak endeavours may no way expreſſe my thankfuln<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſse, the Dedication of them being rather a diſparagement, then an honour to your Ladiſhip, (but that I know your goodneſſe to be ſuch, that you had rather ſuſtaine <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch diſparagement, then be wanting to the furtherance of a Common good.)</p>
+            <p>I ſay, to paſse by this reaſon, which if it had been any, ſhould have been the firſt; the true reaſons why I have uſed your Ladiſhips name, are, first becauſe what for the Antiquity of the Houſe, of which you are deſcended, and the worthineſſe of that whereunto you are united, but
+<pb facs="tcp:118002:3"/> ſpecially for the excellent and ſingular gifts, and graces which you have exerciſed, both in the North, and in the South of <hi>Wales,</hi> farther and wider then I expect, theſe Papers ſhould be either ſeen or read, your name is preci<g ref="char:EOLhyphen"/>ous, and will attract the vulgar eye, firſt to look upon it, and then upon my book.</p>
+            <p>The ſecond reaſon is, that under your Ladiſhips name, I may finde protection againſt Detraction; and Envy, for I may not expect that this, as humble and as low a worke as it is, may paſſe without the envy of ſome, eſpecially it proceeding from ſo meane and weake an Author as my ſelfe: one will blame me for not writing Welch, in Welch Character, another for mixing Engliſh words among the Welch, and a third for writing in Welch at all; when they ſhall caſt an eye upon your Ladiſhips name in the Frontiſpiece, they will deliberate, &amp; take time themſelves to anſwer to their owne objections, rather then questi<g ref="char:EOLhyphen"/>on what your Ladiſhip is pleas'd to owne in a gratefull returne for this and other favours, he ſhall be a daily Ora<g ref="char:EOLhyphen"/>tour to the throne of Heaven, for the welfare of you, and of your family, that ſubſcribes himſelf</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>
+                  <hi>Your moſt obliged, and ever honouring Servant in the Lord,</hi> William Jones.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118002:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>EXOD. 20.7.</hi>
+               </bibl>
+               <q>
+                  <p>Na chymner enw yr Arglwydd dy dduw yn ofer, canys nid diei<g ref="char:EOLunhyphen"/>og gan yr arglwydd yr hwn ag gymmere ei enw ef yn ofer.</p>
+               </q>
+            </epigraph>
+            <p>Y Wedigorchymmyn o ddum na waſanaethem, ac na chydnabyddem yn dduw ond efe yn vnic', mae efe yn gorchymmyn ini hefyd, na chamgymmerom, ac na chammaſanaethom efe, naill ai drwn gyfflybu pe<g ref="char:EOLhyphen"/>thau creuedie, neu bethau gwneuthredic iddo, neu drwy fod yn ddiofal, ac yn ddibriſe wrth grybwyll am<g ref="char:EOLunhyphen"/>dano, neu ei henwi ef.</p>
+            <p>Nid digon ini ymwrthod a duwiau eraill, ai gydnabod efe yn vnic', ond mae yn rhaid ini ei gydnabod ef megis ac y mae efe yn ſanctaidd, ac yn ofnadwif, Dyma'r hyn a lefarodd yr Arglwydd, (medd <hi>Moſes</hi> wrth <hi>Aaron)</hi> gan ddywedyd mi a ſancteiddir yn y rhai a neſſânt attaf. <hi>Lev.</hi> 10.3.</p>
+            <p>Fe a fynn duw ei ſanc'teidio gan bawb a neſſânt atto, fe a fynn ei ber'chu gan bawb ai henwant êf, ſanc'teiddiol, of<g ref="char:EOLhyphen"/>nadwy yw ei enw ef. <hi>Pſ.</hi> Cxi. 9. Na chymmer enw yr Arg. &amp;c.</p>
+            <p>Yn y geiriau yma yſtyriw'ch ytrî pheth hyn:</p>
+            <p n="1">1. Oddiwrth pwy y mar y Gyfraith yma,<note place="margin">Yn gynta.</note> nid amgen nag odd iwrth dduw ei hun, yr hwn ſydd ai allu yn dragywyd<g ref="char:EOLhyphen"/>dawl, ai deyrnas yn anfeidrol, yn ddaionus iawn i wobrwyo rhai ai carant, ac ai anrhyd<g ref="char:EOLunhyphen"/>eddant, yn gwble gyfiawn hefyd, ac yn hollalluog i ddial ar y rhac ac caſânt; ac ai diyſty<g ref="char:EOLhyphen"/>rant.</p>
+            <p n="2">2. Ynghylch pa beth y mar y gyfraith yma,<note place="margin">Yn ail:</note> nid amgien nac ynghylch henw duw ei eun, rhan yw'r gyfraith yma or gor<g ref="char:EOLhyphen"/>chymmyn mawr, ar gorchymmyn cynta: <hi>Mat.</hi> 22.37, 38. yn Cyhoeddu gogoniant duw:<note place="margin">Jaco. 2.8. Pſ. 8.1.9.148.13.</note> ei rhan yw hi or gyfraith frenhin<g ref="char:EOLhyphen"/>ol yn perthyn ei ogomont ant duw ei fawredd, ai deyrnas ef;
+<pb n="2" facs="tcp:118002:4"/> oblegit pabeth ſydd gan dduw fwy,<note place="margin">
+                  <p>Yn <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nw fy Nhad. Jo. 5.43. Yn fy enw i y bw<g ref="char:EOLunhyphen"/>riant allan gyth. Mar. 16.12.</p>
+                  <p>Yn enw duw yr vn yw a thrwy nerth a Chyd ac ew<g ref="char:EOLhyphen"/>yllus Duw:</p>
+                  <p>A bydd yr a<g ref="char:EOLhyphen"/>chubir pob vn a alwo ar enw 'r Arglwydd, Joel. 2.32.</p>
+                  <p>Os gwr a be<g ref="char:EOLhyphen"/>cha yn erbyn gwr, y ſwyd<g ref="char:EOLhyphen"/>dogion ai bar<g ref="char:EOLunhyphen"/>nant ef, ond os yn erbyn yr Arglwydd pwy a eiriol troſto ef 1 Sam. 2.25, Y gorchym<g ref="char:EOLhyphen"/>myn yma yn y gyfraith, megis pren y bywyd yngardd Eden. Yn gyntaf.</p>
+               </note> ne vw'ch nai henw Ca<g ref="char:EOLhyphen"/>nyſ mae henw duw yn arwyddocau ini weithiau ei air ef, ei orchymmyn ei nerth, ai allu <hi>Joh.</hi> 5.43. <hi>Mar.</hi> 16.17. yr vn fath ac y ddywedwni am yr hyn a wnelomi wrth orchymmyn ac awdurdod y brenin ein bod yn gwneuthur hynnu yn enw'r Brenin, felly y peth a wnelom wrth <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir neu orchymmyn duw, ir ydem yn gwneuthur hynnu yn enw duw, yn hytrach, yn enw duw yn vn yw; a thrwy nerth a chyd ac ewyllus duw.</p>
+            <p>Weithiau mae henw duw yn ei arwyddo'cau efe ei hun ini <hi>Joel.</hi> 2.32. <hi>Exod</hi> 3.14.</p>
+            <p>Weithiau arall mae henw duw yn arwyddo'cau ini Cwbl oll ac ſydd ynuw, neu ſydd Briodawl iddo, <hi>Exod.</hi> 33.19.</p>
+            <p n="3">3. Pa beth yw Poen, neu Bericl y Gyfraith yma: nid dini llai na bod yn euog gan dduw ei hun a pha beth a ddychon fod fwy na bod yn euog o bec'hod yn erbyn y goruchaf? 1 <hi>Sam.</hi> 2.25.</p>
+            <p>Mae y gorchymmyn yma wedi ei oſod ynghyfraith dduw magis pren y bywyd yngardd <hi>Eden,</hi> ar yr hwn y goſododd duw y Cerubiaid a chleddyf tanllyd yſc'wydedic' ei gadw efe <hi>Gen.</hi> 3.24. felly mae duw yn yſcwyd neu yn bwgwth dialedd orty'n ol ir gorchymmyn yma ein Cadw ni rhag pwyſo arno.</p>
+            <p>Fel y byddo fy ymadrodd yn hawſ ichwi, acyn eſmwy<g ref="char:EOLhyphen"/>thach i mi<g ref="char:EOLunhyphen"/>nneu mi a oſodaf y ſail yn yſc'afnach, ac yn denu<g ref="char:EOLhyphen"/>ach fel hyn:</p>
+            <p n="1">1. Pabeth yw cymmeryd henw duw yn ofer new pa fodd y gwneur hynnu:</p>
+            <p n="2">
+               <note place="margin">Yn ail.</note>2. Pa fodd ein temptir ni ir pechod yma,</p>
+            <p n="3">
+               <note place="margin">Yn drydydd.</note>3. Ymha gyflwry mae y Cyfriw rai acydynt yn ymarfer ac <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f.</p>
+            <p>Pa beth neu pa fodd y Cymmerit henw duw yn ofer:</p>
+            <p>Fe a cymmerir henw duw yn ofer mewn amriw o foddion, 1. drwy ei g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>blu, ai ddifenwi ef 2. wrth wirchio a llectunu: 3. wrth Conſurio, a Chodi Cythreuliaid, megis yr Iddewon crwydriaid<g ref="char:punc">▪</g> 
+               <hi>Act.</hi> 13.19.4. wrth wneuthur addunedau, naill ai anghyfreithlawn yw gwneuthur, n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w nam hoſſible ym Cy<g ref="char:EOLhyphen"/>fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wni,<note place="margin">Ei addunedau Cy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reithlawn Eccleſ. 5.4.</note> neu drwy dorri ac eſcluſo ein addunedau gwadi ei gwneuthur; 5. ac yn ddiwedda ni a gymmerwn henw duw
+<pb n="3" facs="tcp:118002:4"/> yn ofer wrth Regi a Thyngu, ac oblegit fod y moddion yma yn fwya mewn vſe ymhlith y Cymru mi a chwenychwn ei rhybiddio hwy am yrhain yn benna.</p>
+            <p>Ni a gymmerwn henw duw yn ofer wrth regi pen ſyddo ni yn galw ar dduw i wneuthur y dialedd a welom ni yn dda ar y rhai 'r ydem ni yn ei Caſau, meg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s pe bae dduw yn rhwym ei gyflewni ein ewillus ni, heb yſtyried na ddychon digofaint dyn a chyfiawnder duw mor Cydfod ynghyd, <hi>Jaco.</hi> 1.20.</p>
+            <p>Yn ſiccr ir ydem ni yn darllen am Ei z<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s feli darfu iddo efe felldithio yn enw 'r Arglwydd y plant buchain a ddaeth<g ref="char:EOLunhyphen"/>ant allan or ddinas oi watwar ei, a melltigedig a fuont hwy, oblegit dwy arth a ddaeth allan or goedwic' ar a ddryiliodd o<g ref="char:EOLunhyphen"/>honynt ddau blentyn a thrugain: 2 <hi>Bren.</hi> 2.23.</p>
+            <p>Ir ydem ni yn darllen hefyd fel y darfu ir Prophwyd D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fydd, i St. <hi>Paul,</hi> ac i eraill or Seintiau orchymmyn dialedd ei Cam ir Goruch, a deiſuf o<g ref="char:EOLunhyphen"/>honynt arno wobrwyo ei Er<g ref="char:EOLhyphen"/>lidwyr yn ol haadde digaethau; ondhyn a wnaethant hwy drwy yſpryd prophwydoliaeth, a thrwy wybod, ac adriabod ewyllus duw am y Cyfriwfath,<note place="margin">Alexandr y gof Copr. 1 Tim. 4.14.</note> hefyd t' zeal ad eiddigedd i ogoniant duw, ac o bur ewyllus o ryb<g ref="char:EOLunhyphen"/>iddio rhai eraill <hi>Pſal.</hi> 28.4, 5. 2 <hi>Tim.</hi> 4.14.</p>
+            <p>Ond nid yr vn fath ydiw ini gymmeryd henw duw yn ein genau i regi ac i felldithio ein gilidd, nid yn ol gwybod<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth, neu yn ol ewyllus duw, ond yn ol ein drwg nawſ. an ſcym<g ref="char:EOLhyphen"/>myndod ein hunain.</p>
+            <p>Ond nid myfineſ i feio arnoc'hi yn yr hyn,<note place="margin">Ein gwefuſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u ſydd eiddom ni, Pſ. 12<g ref="char:punc">▪</g> 4.</note> nid ydiw rhai o<g ref="char:EOLunhyphen"/>honochi yn Cydnabod ei fod yn fai, or lliaf nad yw yfath fai fel y it yddeu raid pregethu yn ei erbyn ef, mae ei tafodau yn eiddo ei hunain a phwy ai Cerydda nhw oblegit geireiau, <hi>Pſal.</hi> 22.4.</p>
+            <p>Pa fodd y mynn rhain ei tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ios a ſafanhw wrth air duw gan y Clywant ef?<note place="margin">Pob vn a ſydd yn weuthur pechod ſydd hefyd yn gwe<g ref="char:EOLunhyphen"/>neuhur an<g ref="char:EOLhyphen"/>ghyfraith, oble<g ref="char:EOLhyphen"/>git anghyfraith yw pechod. 1 Joh. 3.4.</note>
+            </p>
+            <p>Pa beth bynnac' ſydd yn erbyn Cyfraith dduw mae hynnu droſ y Fordd, ac vn bechod, 1 <hi>Joh.</hi> 3, 4.</p>
+            <p>Yn awr mae 'r yr holl gyfraith ar prophwydi yn ſefyll ar y ddau orchymmyn yma fel. 1.</p>
+            <p n="1">1. Ceri yr Arglwy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d dy dduw ath holl galon &amp;c. 2. Car
+<pb n="4" facs="tcp:118002:5"/> dy gymydog fel ti dy hun,<note place="margin">Pymp o Ar<g ref="char:EOLhyphen"/>gum entan, neu o Reſwmmau erbyn Regi Yn Cyntat.</note> 
+               <hi>Mat.</hi> 22.37, 38. Bellach pwy ni wel fod rhegi a melld-ithio ein brodyr yn erbyn y gorchmyn<g ref="char:EOLhyphen"/>nion yma yn enwedic yn erbin yr ail orchymmyn oblegit pa fodd y dychyn dyn regi, a melldithio y neb a fyddo yn ei garu fel fe ei hun?</p>
+            <p n="2">
+               <note place="margin">Yr ail Argu<g ref="char:EOLhyphen"/>ment neu reſwm.</note>2. Mae gair duw yn gwardd y peth yma dan ei henw Rhuf. 12.14. ie mae fe yn ei wardd ef yn fla<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ac yn blaen Bendithiwch (medd yr Apoſtol) ac na fellddithiwch, ie ni waſanaetha nac achos nac eſcus, Chwi a debygec'h fod yn lywiedic ichwi felldithio y neb a wneleu gam achwi, ond yn y gwrthwyneb mae St. <hi>Paul</hi> yn dywedyd. Bendithiwch y rhai ſy yn eich ymlid; ymhob modd Bendithwc'h, ac na fell<g ref="char:EOLhyphen"/>dithiwc'h.</p>
+            <p n="3">
+               <note place="margin">Y trydyd.</note>3. Ni weddeu hyn ir cyfriw ra i ac ydynt yn ofni ac yn bendithio duw, fel ein dyſcir ni gan yr Aopoſtol Jaco. 3.8. lle mae efe yn dangos fod y tafod yn ddrwg neu yn dda fel yr arferir efe, ac na weddeu dim i bobl a fyddo yn cymme<g ref="char:EOLhyphen"/>ryd arnynt fendithio duw, felldithio dyn yr hwn a wnaeth<g ref="char:EOLhyphen"/>wyd ar lun duw:<note place="margin">Jaco. 3.8.</note>
+            </p>
+            <p>Or un genau mae yn dyfod allan fendith a melldith: fy mrodyr ni ddy<g ref="char:EOLunhyphen"/>lay hyn fod felly.</p>
+            <p n="3">
+               <note place="margin">Y perdw<g ref="char:EOLunhyphen"/>erydd Arg.</note>3. Argoel yw hyn o anuwioldeb mawr, arfer yw hon yn dilyn pobl anuwiol, fel ein dyſcir i gan y Prophwyd Da<g ref="char:EOLhyphen"/>fydd mewn amriw oi Pſalmau: lle mae efe yn goſod allan yr anuwolion yn ei moddion, i mae efe yn goſod hyn arnynt hwy megis yn vc'h nod, ac yn arwydd yſpus oi adnabod hwy <hi>Pſal</hi> 52. ei tafod a ddychymmyg ſc'eleder: fell elym llym, yn gnwneuthur twyll &amp; 2, 3, 4, <hi>Pſ.</hi> 50.19. Mae nhw yn gollwng ei ſafnau i ddrygioni: Nid oes vniondeb yn ei ge<g ref="char:EOLhyphen"/>nau, Bedd agored yw ei Ceg: <hi>Pſal.</hi> 5.9. <hi>Pſal.</hi> 10.4, 5, 6, 7. yr anuwyol gan vc'hter ei Ffroen ni 'chais dduw, nid yw duw yn ei holl feddyliau ef, ei Ffyrdd ſydd flin bob amſer: &amp;c. ei enau ſydd yn llawn melldith, a dichell, a thwyll, &amp;c.</p>
+            <p>
+               <hi>Pſal</hi> 144. Plant eſtron ydynt hwy y rhai lefara ai genau wagedd.<note place="margin">Pſal. 114.11.</note>
+            </p>
+            <p n="4">4 Dynion anhyweth drwg ei nauf, plant y fall ſydd yn ym roi ir profedigaeth yma, Dynion (o<g ref="char:EOLunhyphen"/>her<g ref="char:EOLunhyphen"/>wydd ei moddi<g ref="char:EOLhyphen"/>on) megis Goliath y philiſtiad yr hwn a regodd Ddafydo
+<pb n="5" facs="tcp:118002:5"/> wir uchter a diofalwch heb nac achos nac yſtur amgen 2 Sam. 27.4.3.<note place="margin">
+                  <p>1 Sam. 17.41, 42.</p>
+                  <p>Efe ddir my<g ref="char:EOLhyphen"/>godd Ddafydd ac am hynnu efe ai rhegodd: Y ahymmed. Arg.</p>
+               </note> 
+               <hi>A'r Phil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtiad ddywedodd wrth Ddafydd ai Cî ydwyfi gandy fôd yn dyfod attaf a ffyn? ar Philiſtiad a regodd Ddafydd, drwy ei dduwi au, efe ai diyſtyrodd, ac amhynnu fe ai rhegodd.</hi>
+            </p>
+            <p>Neu megis Simei fâo g ra yr hwn a regodd Ddafydd o wir 'chwerwedd yw ddolurio efe yn ei adr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d 2 Sam 16 75. y bobl neu y genhedlaeth ſydd yn ymarfer a hyn ydynt aned<g ref="char:EOLunhyphen"/>wydd, ac anilwyddianus, yn llawn drygioni, ac yn agos i d<g ref="char:EOLhyphen"/>deſtriw, ac yn ſiccr nid allain hwy lai na bod y llawn drygioni y rhai ydynt yntho hyd at e ganau: ni ddychon bôl Cymmaint a rhith duwieldeb ymhlith bobl lle in byddo a raith grefyddol: Jaco. 1.26. ac fel y mae nhw yn llawn drygioni, fe ly mae nhw yn agos i ddeſtriw Rhuf. 3.14.16.18: <hi>Deſtryw ac aflwydd ſydd yn ei ffyrdd: Duw ai deſtrywia hwynt, ac ac gyrr hwynt ymmaith Pſ</hi> 5.10.</p>
+            <p>Sywaeth mae hyn yn amlach yn ein p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith ni y cym<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u, nac ymhlith un Bobl ne G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nedl arall, ie mae gennym in y fath Ffraethder ir pwrpas ymma ac na ddefeiſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mor fath mewn un iaith arall.</p>
+            <p>Pei henwn i gymmaint o foddion i regi ac ſydd yn ein pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th in mi a wnawon ich gwa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſefyll ar eich pennau, C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wi a debygech fyn òl yn conſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>io neu yn <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>di Cythreuliaid ob<g ref="char:EOLhyphen"/>legit wrth regi chwi a fyddwch arfer a galw ar y Cythrael, ar Diafol, yn gyſtal ac ar dduw ar Seinteiu: yn eich cigo<g ref="char:EOLhyphen"/>faint Chwi a gymmyſcwch henw duw a henw r diafol ac nid gwaeth gennychy alw ar y naill nac ar y llall.</p>
+            <p>Ond digon genaychi demptio, a Chyffio eich gilydd ond bod yn rhaid ichwi demptio duw hefyd?<note place="margin">Ind yw lywie<g ref="char:EOLhyphen"/>dic i Griſtian<g ref="char:EOLhyphen"/>ogion gellwair yn anweddaidd Eph. 9.4</note> ond digon gennychi ddifenwi a lûſhenwi eich gilidd ond bod yn rhaid ichwi ga<g ref="char:EOLhyphen"/>blu a difenwi duw wrth warwar, a lûſhenwi eich gilidd y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ydechy ym hell ar fai, nid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ywedic ichwi wrth am duw gymmaint a Chellwair yn anweddaidd Epheſ. 5 4. <hi>Na henwer yn eich plith nac ymadrodd fol, na cho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>digrefwch, pethau nid ydynt weddus eithr yn hytr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch rhoddi diolch;</hi>
+            </p>
+            <p>Os yw ymadrodoion or fath yma mor anwed<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us i Griſt<g ref="char:EOLhyphen"/>nogion, ac na ddylid ei henwi nhw, yn ei plith hwy, pa f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int mwy y mae rhegi a melldithio, Cablu a difenwi a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fath ei <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iau deſtriw yn anweddus i Saint.</p>
+            <p>
+               <pb n="6" facs="tcp:118002:6"/>Y Cymru anwyl na henwer y pethau y ma yn eich plîth chwi mwy, ac na fyddwch ſarthaidd ac enllibaidd, yr hyn ni weddeu i bobl yn Cyffeſſu Criſt, ac in ddychon mor Cytuno a Sanc<g ref="char:EOLunhyphen"/>teidd wydd <hi>Coloſſ.</hi> 3.8 <hi>Epheſ.</hi> 5.3.4.</p>
+            <p>Ac na roddw'ch achos: i ddywedyd am<g ref="char:EOLunhyphen"/>danochy megis y dywedodd St. <hi>Paul</hi> gynt am y Canhedloedd: <hi>A Chwi yn adnabod duw nid ydych yn addoli ymohonaw megis duw, ond ofer ydych yn eich rheſymmau ach Calonnau ſydd anneallgar yn llawn tywyllwch:</hi> Rhuf. 2.21.</p>
+            <p>Yn hyttac'h fe a gymmerir henw duw yn ofer wrth dyngu hynnu mewn trï modd,</p>
+            <p n="1">1. pan fyddo in yn tyngu yn ydon. 2: pan fyddo ni yn, tynguyn raſh, ac yn ddiyſtur, 3. pan fyddo ni tyngu yn ofer, ac heb raid.</p>
+            <p>Er mwyn gwilied yn well droſſeddu yr ûn or trîmodd ar Dyngu, mae yn rhaid ichwi yſtyried yn gynta peth, pa beth yw llw neu dyngu.</p>
+            <p>Lw neu dyngu yw galw, a chymmeryd duw yn dyſt ar yr hyn r ydemi yn ei ddywedydd, yr hwn a wyr bôb peth, ac a ddychon ddial arnom ni os ydem in yn dywedyd Celwydd.</p>
+            <p>
+               <note place="margin">
+                  <p>Infiurandum aſ<g ref="char:EOLhyphen"/>ſertoriü defacto. Infiurandum permifforum de futuro.</p>
+                  <p>Sub deo teſte, ſub deo uindice. Conteſtatio. Execratio <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </note>Yn awr mae llw naill ai er ſiccer hau fod peth gwedi bôd, neu er ſiccer hau addewid o bethi ddyfod; Pôb or ddau ſydd dan dduw yn dyſt, a than dduw yn ddialwr, yn y naill os nad yw y peth gwedi bôd yn wir, yn y llall os nad cyflawnir peth a addewir.</p>
+            <p>Gan hynnu wrth dyngu llw mae dyn yn rhwymo rhwyme digaeth ar ei enaid ei hun Numb. 3 2. neu fel y mae y gair groeg yn annyddocau i mae dyn yn Cau ar<g ref="char:EOLunhyphen"/>no ei hun, fel y gorfyddo ar<g ref="char:EOLunhyphen"/>no ſefyll wrth ei air, nid oes iddo le i gilio.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Sceva quieſcens. Infurandum.</note>Yn hytrach yr un gair yn yr Hebrew ſydd yn arwyddo cau i dyngu, ac i fodloni, gan hynnu fe a ddilid bod yn fodlon wrth lw, oblegit medd yr Apoſtol <hi>er ſiccerwydd ymae llw yn derfyn ar bob ymryſon</hi> H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b. 6.16. Eitha Cyfraith yw llw ac nid oes lle i holi ymhe<g ref="char:EOLunhyphen"/>llach: <hi>idem eſt jurare ac pro jure ha<g ref="char:EOLhyphen"/>bere,</hi> fe a ddylai iw fod cyn ſcicred ar gyfraith, yn derfyn ar ymryſon: Ni a ddechreuwr ar modd Cynta a gwae<g ref="char:EOLhyphen"/>tha i gymmerid henw duw yn ofer drwy dyngu, ſef drwy dyngu yn ydon.</p>
+            <p>
+               <pb n="7" facs="tcp:118002:6"/>Tyngu yn ydon yw i ddyn gymmeryd duw yn duſt yn en<g ref="char:EOLhyphen"/>enw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dic oflaen Swyddog ei fod yn dywedyd y wir,<note place="margin">Pabeth yw tyngu ynydon.</note> pan fyddo yn dywedyd celwydd o bwrpaſs i droi y gwirion oddiwrth ei gyfiawnder.</p>
+            <p>Nid oes neb o<g ref="char:EOLunhyphen"/>honochi nad yw yn cydnabod ac yn Cyfad<g ref="char:EOLhyphen"/>deu mai pechod erchyll yw hyn, ac od oes na chyfiawnder,<note place="margin">Pechod erchyl.</note> na gwybodaeth gyda duw, a ddychon efe lai na choſpi a dial ar y Cyfriw rai ac ai temptiant ef fel hyn?<note place="margin">Y modd enby<g ref="char:EOLhyphen"/>ta a gwaetha i demptio Duw.</note> y rhai ydynt yn Cymmeryd ei henw ef ind yn unic' yn ofer, ond hefyd yn dwyllgar i wneuthur yndda ei h'anghyfiawnder.</p>
+            <p>Ni ddywedafi eich bod chwy Cymru yn arfer y pechod yma yn fwy na phobl eraill, etto nid allafi wadu nad oes mwy o ymryſon ac ymgyfreithio yn ein plith ny y Cymru,<note place="margin">Le mae cyn<g ref="char:EOLhyphen"/>nenlawer, yn fynnyt'h y mae Camwedd.</note> nac ym<g ref="char:EOLhyphen"/>blith rha; eraill, ac lle mae Cynnen lawer yn fynych y mae Camwedd.</p>
+            <p>Ond am dyngu'n raſh<g ref="char:punc">▪</g> ac yn ddiyſtur, am dyngu yn ofer, ac heb raid t' wyfi yn cybied nad oes pobl yn y byd oi Cyf<g ref="char:EOLhyphen"/>flybu ir Cymru, drwg iawn gennyf orfod arnafi roddi 'r go<g ref="char:EOLhyphen"/>rau ir Cymru yn yr hyn ſydd waetha, mi a fynnw pei gwnaech fi yn gelwyddoc.</p>
+            <p>Rhai ſydd 'n pechu yn hyn o eiſiau gwybodaeth ac yſturi<g ref="char:EOLhyphen"/>aeth, nyd ydynt hwy yn ofni Cyfraith, onid Cyfraith dyn, ac nid ofna wr droſſedd ond ynerbyn dyn, fe a fedr y gwaela ar gwaetha o<g ref="char:EOLunhyphen"/>honochi fod yn ofa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us ac yn barchus ddigon wrth grybwyll am wyr mawr, ac am wyr boneddigion, Gwyr da ydyynt hwy. Duw a ſafo gida nhw, yn hyn fe a haeddeu y Cymru Cyfreddin glod rwch ben pawb, ond wrth henwi duw mae llawer ohonochi yn ddiofal ac yn amharchus iawn; yn ei henwi efe yn fynych heb, feddylied am<g ref="char:EOLunhyphen"/>dano, neu or llia heb yſturied pafath yw.</p>
+            <p>Rhai eraill ſydd yn perchu yn hyn o waſgw'chdra, ne o wroldeb, heb hyn mar nhwy yn gweled fod ei iaith yn gwtta y mae nhw yn gwneuthur henw duw yn gommon ac yn ddi<g ref="char:EOLhyphen"/>b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſ i ddangos ei bod hwy yn gadarn, ac yn ddiofn, i ddan<g ref="char:EOLhyphen"/>gos hefyd ei bod hwy yn hyll, ac yn erchyll, ac felly i yrru ofn ar ei Cyfeillon, ac yn ſiccr pwy nid ofnau fod yn y fan lle bae nhwy.</p>
+            <p>Fy mordyr anwyl nid wyfi yn beio arnochi eich barnu
+<pb n="8" facs="tcp:118002:7"/> chwy ddim, (gwae fi nad allwn eich eſcuſodi chwi) ond eich rhybyddio chwi, mwyn gwellhau ohonochi, M giſ y dyweddod St. <hi>Paul</hi> wrth y Corinthiaid: <hi>Nid eich Condem<g ref="char:EOLhyphen"/>nio chwi yr wyf yn dywedyd fel hyn, canyſ mi a ddywedais or bla<g ref="char:EOLhyphen"/>en eich b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d yn fynghaloni ac am hynnu mae hyfder fy ymaddrodd yn fawr wrthych</hi> 2 Cor. 7.3 4.</p>
+            <p>Ac megis y triſts odd St. <hi>Paul</hi> y Corinthiaid drwy Lythur felly y c'hweny-chwn inneu eich trillau chwithau. ac O na thriſtaechi nid yn ddynol, ond yn dduwiol, nid i ddig ond i edifeirwc'h t ac na bae im ymdrodd ei drwy 'r yſpryd 'wei<g ref="char:EOLhyphen"/>thio ynochi y fath ofall ac y weithioedd lluchur St. <hi>Paul</hi> yn y Corinthiaid. <hi>Canys wele pa ofal medd 'r Apostola, weithiodd hyn ynochi ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f triſtau o<g ref="char:EOLunhyphen"/>honochi yn dduwiol <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i pa amddiffyn, ie pa ſo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iant ei pa ofn, ei pa <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yddfrye, ei pa zel, ie pa ddiall,</hi> 2 Cor. 7.11.</p>
+            <p>O na bai ynochwithau o hyn allan, y fath ofal, y fath ofn, ar fath 'chwant i ymwrthod ar pechod yma, na bae ichwi roddi eich bryd ar eich ymddiffyn eich hunain oddiwrtho, 'r wy fi yn dywedyd hyn, oblegit fymod yn gweled yr an<g ref="char:EOLhyphen"/>hawdd ichwi ymadael ar peth y funchi cyd yn gynefyn ac ef, gan hynnu meddai rhoddwch eich bryd ar eich amddiffyn eich hunain oddiwrth y dryg arfer yma a chyda'r Prophwyd Dafydd, <hi>Gwiliwch ar eich genau rhag ichwi u'n amſer bechu ach tafodau:</hi> fe a fydd ynrhaid ichwi roddi cyfri o bob gair ſeg r a ddel allan och genau chwi pa ſaint mwy o bob llw o<g ref="char:EOLhyphen"/>fer ac anſyber?</p>
+            <p>Gwrandewch ar St. <hi>Paul</hi> at 'r Epheſiaid yn dyſcu pei fath ymad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odd a ddylai fod ymhl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Criſtnogion, nid amagen, <hi>nar fath a fyddo da, ac yn fuddiol i adeiladaeth,</hi> Eph 4.29. <hi>Na dd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d un ymadrodd llygredic allan och genau chwi:</hi> ond y Cyfriw, <hi>un ac a fyddo da i ad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iladu yn fuddiol fel y paro ras ir gwrandawyr ac na thriſt ewch l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n yspryd duw, drwy 'r hwn ich ſeliwyd hyd ddydd prynedigaeth tynner ymmaith oddiwrthych bob 'chwerwedd a llid, a dig a llefain, a chabledd, gyda phob dry<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni.</hi>
+            </p>
+            <p>Mae ymadroddion da yn peri gras ymhlich y bobl lle y byddo nhwy megis y mae <hi>ymadrodd on drwg yn llygru moeſau da,</hi> 1 Cor. 15.23.</p>
+            <p>
+               <pb n="9" facs="tcp:118002:7"/>Na feddyliwch ddywedyd ynoch eich hunain er hyn eich bod yn gwaſana ethu duw cyſtal neu yn dodyd yn well na'r<g ref="char:EOLhyphen"/>hai ſydd yn gwneuthur yn fawr ac yn anwyl henw duw, ac yn ofni tyngu nac ar gam, nac mewn oferedd; fe a ddychon pobl neſſau at dduw aianrhydeddu efe ai genau, ac etto pell<g ref="char:EOLhyphen"/>hau ei Calonau oddiwrtho, <hi>Ef.</hi> 29.13. fe a ddychon pobl, <hi>gyffeſſu Criſt yn ei geiriau,</hi>
+               <note place="margin">Mae yn anhe<g ref="char:EOLhyphen"/>big iawn y dy <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hon y moeſau fod yn dda lle ma yr ymad<g ref="char:EOLunhyphen"/>roddion yn ddrwg.</note> 
+               <hi>ac otto ei wadu efe yn ei gweithre<g ref="char:EOLhyphen"/>doedd,</hi> at <hi>Tit.</hi> 1.16. ond mae yn anhebyg iawn i bobl gyffeſſu Criſt yn ei gweithredoedd ai wadu efe yn ei geiriau, mae yn anhebyg iawn y dychon fod y moeſau yn dda lle mae 'r yma<g ref="char:EOLhyphen"/>droddion yn ddrwg, ie fel y Clywſooh or blaen mae y bobl hynnu yn llawn drygioni y rhai ydynt ynddo hyd at ei genau, ac ni ddychon bod gymmaint a rhith duwioldeb lle nid orf araith grefyddol.</p>
+            <p>Os ydech yn rhyddion i arfer yr ymadroddion a fynnoch, pa<g ref="char:EOLunhyphen"/>ham y mae St. <hi>Paul</hi> ymob man ac y mae efe yn rhoddi gorchmynion i Griſtnogion i rodio yn addaſ iwgalwedigaeth, yn ei rhybiddio nhw hefyd am ei ymadroddion: ac yn dan<g ref="char:EOLhyphen"/>gos pa fath ymadroddion a ddylai nhw ochelyd a pha fath a ddylai nhw ei harferu, ac heb hyn nid allant hwy gymaint a thebygu i Griſtnogion,<note place="margin">Coloſſ. 3.8. Eph. 4.24.</note> 
+               <hi>Coloſſ.</hi> 3.8. <hi>Eph</hi> 4.24 25, 29, 31. fel hyn or Rhangynta, ſef pa beth yw cymmeryd henw duw yn ofer, a pha ſawl modd 'r ydem yn arferol a gwneuthur y mawrbechod yma.</p>
+            <p n="2">2. Pa fodd ein temptir ni ir pechod yma.</p>
+            <p>I bob pechod arall, mae un or tri pheth yma in temptio ni iddo, naill ai chwant y 'cnawd, 'chwant y llygaid neu falchder y bywyd, 1 <hi>Joan.</hi> 2.16.</p>
+            <p>Sef Pleſſer, Budd, neu wagogoniant.</p>
+            <p>Yn awr yn g peth yma ſef yn Camhenwi duw drwy dyngu a rhegi nid oeſ na Phleſſer, na budd, na gogoniant, na har<g ref="char:EOLhyphen"/>ddwch, pa fodd gan hynnu ein tempt<g ref="char:EOLunhyphen"/>erni iddo ond drwy demptſiawn y Cythrael.</p>
+            <p>Pabeth a ddymmuneu y Cythrael fwy na'n Caffel ni Cyn|'rhwg ac efe ei hun, yn awr gwaetha'r Cythrael yw Cablu a difenwi duw, ac wele wrth dyngu a rhegi yn ſerthaidd nid ydem ni yn gwneuthur un gronyn llai, or gwnawni fel hyn tra fyddo ni yn y byd yma yn gyfrannogion o ddaioni duw,
+<pb n="10" facs="tcp:118002:8"/> oi haul ac oi law ef megis eraill, pa beth a gawnni yw wneu<g ref="char:EOLhyphen"/>thur yn uffern pan in poenir ynghycar Cythrael ai Angylion: ie yn ddiameu y ſawl ſydd yn ymroir Brofedigaeth yma, mae yſpryd drwg yn ei meddiannu' hwy, mae nhw yn ſerthaidd, yn fyrning, yn llidiog, ac yn greulon megis gwedi ei enynyn gan uffern.</p>
+            <p>A pha fodd y pr'ſſient hwy am anrheithio dynion oni bae rhag ofn dialedd, y rhai ind ydynt yn periſio am a allant am anreithio duw? nid oblegit bod duw heb ddial, ond oblegit fod ei ddial ef yn hwyr Gan hynnu lle byddo gweiſion gwchi<g ref="char:EOLhyphen"/>on, gwyr geirwon plant y fall, yn Cymmeryd rhwyſc i dyngu<g ref="char:EOLhyphen"/>ac i gamgymeryd henw duw, mae gweiſion, ac aelodau y Cy<g ref="char:EOLhyphen"/>thrael, yn wayth na mwrddwyr, agyn waeth na lladron, Ci<g ref="char:EOLhyphen"/>liw'th oddiwrthynt, ac na fydded eichwi gymdrith aſ a hwynt, <hi>Pſal.</hi> 139.19, 20, 21. Os bydd i neb o<g ref="char:EOLunhyphen"/>honochi ac ſydd yn ad<g ref="char:EOLhyphen"/>nabod duw ac yn 'chwenych bod yn gymmeradw ganddo, meddaf os bydd ir Cyfriw fath yſtyried ſylw a maint y pe<g ref="char:EOLhyphen"/>chod yma, fe a wylia nid yn unic arno ei hun, ond hyd y gallo ar eraill hefyd, a pha bryd bynnac y clywo gamgymmeryd henw duw, fe a dry ei galon yn ei gorph, ac a ſai ei wallt ar ei ben, mor erchylly fydd ganddo glywed Cyffroi ei Dduw dai<g ref="char:EOLhyphen"/>onus yn yr hwn y mae ef yn ymddiried, ar hwny mae efe yn ei garu ai holl feddwl, ac ai holl galon Ac am<g ref="char:EOLunhyphen"/>dano efe ei hun, ni henwa efe dduw un amſer ond yn barchedic, ac wrth raid, megis mewn gweddi, mewn mawl, &amp;c.</p>
+            <p>
+               <note place="margin">Gwaith y Cy<g ref="char:EOLhyphen"/>thrael yw di<g ref="char:EOLhyphen"/>fenwi Duw, ac nid oes lle Cy<g ref="char:EOLhyphen"/>faddas ir gwa<g ref="char:EOLhyphen"/>ith yma ond yn uffern.</note>Fel hyn <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ymrodyr anwyl, y gwelw'chi o ba le mae y temp<g ref="char:EOLhyphen"/>taſiwn yma yn dyfod ſef oddiwrth y Diafol, ei waith ef ei hun yw hyn ſef rhegi a chablu duw, ac nidoes lle cyfaddas ir pechod ymo, ond yn uffern yno mae Cablu a rhegi wylofain, hefyd a rhin'ci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n dannedd.</p>
+            <p n="2">2. Ymha gyflwr ymae y rhai ſydd yn arfer y pechod yma:</p>
+            <p>
+               <note place="margin">Gelynnion Duw a gym<g ref="char:EOLhyphen"/>merant ei enw ef yn ofer.</note>Ymha gyflwr y mae yfath yma, fe ach dyſcir 'chwi gan y Prophywyd Dafydd, <hi>Pſal.</hi> 139.20.</p>
+            <p>
+               <hi>Yn ddiau O dduw ti a leddi 'r anuwiol, am hynnu y gwyr gwaedlyd Ciliw'ch oddiwrthif: y rhai a ddywedant ſcelerder yn dy erbyn, dy elyunion a grmmerant dy enw yn ofer,</hi> Gelynnion duw yw y rhai y gymmerant ei enw ef yn ofer yn awr dychy<g ref="char:EOLhyphen"/>mygwchi
+<pb n="11" facs="tcp:118002:8"/> ymha gyflwr y dychon gelynnion duw fod, pa ras, neu pa ddaioni a ddychon fod yddynt huw, a pha fodd na choſpir ac na ddialir arnynt hwy ymhob modd ie oni bae wybod ohonomni fod duw yn ddioddefgar, ac yn ymar hoys iawn, ni a allen ryfeddu na bae 'r ddaiar yn ei llyn'cu hwynt na bae 'r tan yn ei llos'ci, neu 'r dwfr yn ei baddi: yr ydem yn darllen am y fath Siamplau a hyn, ſef fel y darfu i dduw gynt farnu y fath droſſeddwyr a rhain, gan roddi ir Creua<g ref="char:EOLhyphen"/>duriaid y gorfod arnynt hwy yw difetha, megis ir dwfr yw boddi ir tan yw llos'cci, neu ir ddaiar yn ebrwydd yw llyn'cu hwynt, ac yn ſiccr pa fodd nad ymladd pob Creadur yn erbyn y fath ſiſcreaid ac ydynt yn ymladd yn erbyn ei harglwydd ai Creawdwr?</p>
+            <p>Mae y pechod yma yn dwyn dialedd nid yd vin'c yſpryddol, ond daiarol hefyd, nid yn uni'c yn y byd ſydd ar ddyfod, ond hefyd yn y byd preſennol yma, ei mae y pechod yma yn dwyn dialedd nyd yn uni'c yn nailltuol, ar y rhai ydynt yn ei arferu, ond hefyd yn gyffredinol ar y lle y bobl neu 'r gynu<g ref="char:EOLhyphen"/>lliefa lle i mae efe yn arferedic, efe a ddifetha dy 'r hwn ſydd yn ei oddeufe ymhlith ei deulu, <hi>Zechar.</hi> 5.4. Efe a ddryga y wlad neu ('r tir lle 'r ydys yn ei gynwys, ie medd y Prophwyd) oblegit tyngu yn dywyllodrus, a chymmeryd henw duw 'n ofer mae 'r holl wlad mewn gofid: gan hynnu ni a allwn gyfri y rhai ſydd yn ymarfer ar pechod yma yn Elynion nid yn uni'c dduw ond hefyd ir wlad neu ir tir lle y bydont hwy.</p>
+            <p>Yn hytrach mae rhai a 'chwennychent beidio a chymmeryd henw duw yn ofer, etto nid allant hwyfod heb dyngu gan hynnu yn lle henwi duw y maent yn henwi ei Saintieu ef, yn lle dywrdyd myn Duw, neu myn Criſt hwy a ddywedant myn Petr, myn Jaco, myn Mair, myn Elien, &amp;c. ac yn hyn y ma<g ref="char:EOLhyphen"/>ent yn tybied ei bod yn ſaf, ac nad ydynt yn gweuthur dim ar fai, fe a weddu fod y rhain mewn rhyw fodd yn ofni ac yn perchi duw, ac etto mae rhain yn Camſynnied mae yn gymaint pechod henwi y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seintieu yn lle Duw, a henwi duw ei hun yn ofer ymhob un or ddau 'r ydem ni yn diyſtyru ac yn amhar<g ref="char:EOLhyphen"/>chu duw, yn y naill 'r ydem am a allomyn tynnu duw i lawr or nef<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edd, yn y llall yr ydem yn goſod rhai eraill i fynu Cyf<g ref="char:EOLhyphen"/>wych
+<pb n="12" facs="tcp:118002:9"/> ac ynteu, ar nail ni ddychon duw moi oddef mwy na'r llall, ni rydd duw moi anrhyd<g ref="char:EOLunhyphen"/>edd i arall: ac ni ddieddu efe gyfflybu dim arall iddo,</p>
+            <p>Yn awr wrth pa beth bynna'c 'r ydem yn tyngu hwnnw 'r ydem yn ei wneuthur, yn Dduw ini gan hynnu drwy dyngu wrth ddim ond wrth dduw yn vni'c yr ydem ni yn pechu yn erbyn y gor Chymmyn Cynta yr ydem yn gwneuthur ini ein hunain dduwiau draill heb ei law ef.</p>
+            <p>Nyd ydiw 'r Seintieu yn diſgwil mor parch yma ar eich dwylaw 'chwi, a phan fyddo 'chwi yn galw arnynt, nid ydynt nac yn clywed nac yn gwybod oddiwrthy'chi.</p>
+            <p>Mae Jaco ar Seintieu eraill mewn eſmwythdra nid ellwchi yn awr gyffroi ymohonynt hwy nid ellwchi na pharch nac a<g ref="char:EOLhyphen"/>march yddynt hwy, ond pan oeddent hwy ar y ddaiar nhw ach rhybyddiaſant 'chwi ei beidio a thyngu, ie Jaco wrth yr hwn 'r ydechi yn tyngu fwya, ſydd fwya yn eich erbyn 'chwi;</p>
+            <p>
+               <note place="margin">Jaco. 5.12.</note>
+               <hi>O flaen pob peth fymrodyr na thyngwc'h, nac ir nef, nac ir ddaiar, nac un llw arall, eithr bydded eich ie 'chwi yn ie, ach na<g ref="char:EOLhyphen"/>ge yn nage rhag ſyrthio o<g ref="char:EOLunhyphen"/>honochi i brofidigaeth.</hi>
+            </p>
+            <p>Ie mae ein Iechawdwr Criſt ei hun yn gorchymmun na ar<g ref="char:EOLhyphen"/>feroch dyngu mewn modd yn y byd, ac oblegit fod nid yn uni'c yn arferedi onc hefyd yn lywiedic y pryd hynnu ym<g ref="char:EOLhyphen"/>hlith yr Iddewon dyngu llwon buchain megis ir Deml, neu ir Allor, <hi>Mat.</hi> 23.16, 18.</p>
+            <p>
+               <note place="margin">Pwy bynnac dyngo ir Deml nid yw i ddim,</note>Fel y mae rhai o<g ref="char:EOLunhyphen"/>honochwthau yn tybied nad yw niwed tyngu llwon buchain megis myn fy naid myn y llaw yma, myn y tan Engil, myn yr Haul bendigedic, &amp;c. Mae ein Jechaw<g ref="char:EOLhyphen"/>dwr Criſt yn gwarddi chwi bob bath ar lw ofer, ar fath yma yn gyntaf.</p>
+            <p>
+               <hi>Na thyngwch ddim nac ir Nef, nac ir ddaiar, nac ddaiar, nac i ddim a all, ond bydded eich ymadrodd'chwi Ie, Ie, nage nage oblegit pa beth bynnac ſydd ywch bon hyn or drwg y mae,</hi> Matthew 5.34, 35.</p>
+            <p>
+               <note place="margin">Llwon gwàel.</note>Y llwon gwael yma ſydd yn gwneuthurhur eich brad chwi, rhain ſydd yn cynnal eich drwg arfer 'chwi i dyngu, drwy dy<g ref="char:EOLhyphen"/>bied fod rhain yn ddiniwed 'r ydech yn ei harferu nhw yn weſtad, ac wrth ymarfer a rhain yn waſtad nid ellwch na ar<g ref="char:EOLhyphen"/>feroch
+<pb n="13" facs="tcp:118002:9"/> y lleill weithiau, y neb a ddywaid myn Jaco, neu myn Mair, ar bob gair, a ddywaid, myn Duw, ac myn Criſt am<g ref="char:EOLhyphen"/>bellwaith: Mae Sanct <hi>Auguſtin</hi> yn gweled, ac yn dal ar hyn, mede efe Cave <hi>facilitatem nam facilitas affert conſuetudinem, &amp; conſuetudo blasphemiam,</hi> Os mynnwchi beidio a thyngu yn niwidiol na thyngw'ch ddim oll mewn oferedd, thyngw'ch nae ir haul, nae ir goleuni, nac eich enaid, nac eich enioes, nac un llw ofer arall, ond bydded eich Je 'chwi yn Je, ach nage, yn nage, ac na thwyllir ymohono'chi oddiwrth 'r ymadr<g ref="char:EOLhyphen"/>oddion yma gan fath yn byd ar goeglwon, ac er mwyn hyn yn benna yn op Cyngor St. <hi>Augustine</hi> gochelwch y Llwon gwaela.</p>
+            <p>
+               <note place="margin">1. Wrth Dduw.</note>Ond chwi a ddywedw'ch oni 'chawn ni dyngu dim oll? Cew'ch ar achos 'cywir, ac angenrhaid, a hynnu nid amgen ond pan eich Cymhellir, neu pan eich gofynnir, yna 'chwi a dyngw'ch wrth dduw ei hun, ac nid wrth ddim arall, <hi>Jer.</hi> 5.7.</p>
+            <p n="2">
+               <note place="margin">2. Wrth Dduw yn unic.</note>2. Chwi a dyngwch wrth dduw yn unic, heb oſod dim arall gydac ef <hi>Zephania</hi> 1.5: myn duw, ac myn Malcham, fel y dywedwn nmnu myn duw ac myn Mair</p>
+            <p n="3">
+               <note place="margin">3. Wrth Dduw mewn gwerio<g ref="char:EOLhyphen"/>nedd; ac me<g ref="char:EOLhyphen"/>wn barn.</note>3. Chwi a dyngwch <hi>mewn guirionedd, mewn barn, ac mewn Cyfiawnder, Jer.</hi> 4 2. duw y gwirionedd yw efe gan hynnu y neb a dyngo iddo efe mae yn rhaid iddo dyngu mewn barn he<g ref="char:EOLhyphen"/>fyd<g ref="char:punc">▪</g> (hynnu yw) ar achos da ac wrth raid, ac nid mewn of<g ref="char:EOLunhyphen"/>eredd.</p>
+            <p>Nid oedd pobl yn y byd er yſtalm an hawſ ganddynt gym<g ref="char:EOLhyphen"/>meryd llw na'r Cymru ni ddoen hwy oflaen ſwyddoc, ond drwy ei Cymell a phyn ddelent, hwy a ddoen mewn ofn a dy<g ref="char:EOLhyphen"/>chryn, nid ydoedd tyngu yn ofer 'chwaith mor ruferedic ym<g ref="char:EOLhyphen"/>hlith yr hen gymru ac y mae efe yn awr yn ein plith ni, ac etto mae yn ein plith rai i dduw y byddo 'r diolch yn rhagori nid yn uni'c ar eraill oi Cenhedl ei hun, ond hefyd ar bob Ca<g ref="char:EOLhyphen"/>hedl a phob Natiwn arall, nidoes ymhlith pobl yn y byd ddu<g ref="char:EOLhyphen"/>wiolach, ſyberwach dynion, gwell ei ymwreddiad, na rhadlo<g ref="char:EOLhyphen"/>nach ei ymadrodd, y rhain yn ddiameu ydynt ſylfeini y Gen<g ref="char:EOLhyphen"/>hedl yn cael Ffafr gan dduw nas difethir hi: Ar y rhain 'r wy<g ref="char:EOLhyphen"/>fi in deiſyf er mwyn Criſt ymegnio o<g ref="char:EOLunhyphen"/>honynt hwy ar ddeſtry<g ref="char:EOLhyphen"/>wio y ſcelerder ar gelynniaeth yma yn erbyn duw o blith y
+<pb n="14" facs="tcp:118002:10"/> Cymru yr hwn fel y Clywſochi ſydd yn dwyn dialedd nid yn uni'c ar y rhai ydynt yn ec arfer ef, ond hefyd ar y rhei ydynt yn ei gynwys ef, ſef drwy fod yn fodlon iddo, ni ddychon pobl gywir oi Brenin gynwysmoi Elynnion ef, ſef drwy fod yn fodlon yddynt, ei hoffi, a bod yn gymdeithgar a hwynt, felly nid ellwchwithau fod yn gywir i dduw a bod yn fodlon ir rhai a ddywedant ſcelerder yn ei erbyn ef Chiwch oddi<g ref="char:EOLhyphen"/>wrth ynt or lleis cyn belled ac y gwelont eich bod yn anfodlon yddint; ai bod hwy (yn hynnu) yn wrthwynebus ichwi fel y Cynabyddon i bai, ac y Cw<g ref="char:EOLunhyphen"/>lyddiont oi blegit.</p>
+            <p>
+               <note place="margin">Moſ. Exod. 32.11.21. Sam. 1.12.23. Dafydd. 2 Sam. 24.17. Elia. 9. Bern. 19.14. dygais fawr zel dros Arg. Paul yn ei zel dros yr Iddewon Rhuf 9.3. Rhuf. 10.1.</note>Fy mrodyr mi a chwenychwn ichwi roddi eich bryd ar ber Ffeiddrwyd, yn awr perffeiddrwyd yw, yn ol Siamplau'r Seintiu gynt <hi>Moſes, Samuel, Dafydd, Paul,</hi> ac eraill bod yn zealous, ac yn eiddigus oblegit gogoniant duw ac yn dda eich ewyllus i gadw eich brodyr rhag bod yn golledic, ym<g ref="char:EOLunhyphen"/>byliw'ch a dw mewn gweddi dros eich broydyr fel y trugathao, efe wrthynt etto, fely trugarhaes efe hyd yn hyn, ymbyliwch ach brodyr hefyd fel na chwanego nhwybechu yn erbyn 'r Argl<g ref="char:EOLhyphen"/>wydd i ddwyndrwg arnynt ei hunain, y mae ichwi Siampl o hyn. <hi>Exod.</hi> 32. lle mae <hi>Moſes</hi> yn gyntaf yn ymbil a duw dros y Boble 11. ac oddi yna yn ymbill ar bobl oblegit bechu ho<g ref="char:EOLhyphen"/>nynt yn erbynduw.</p>
+            <p>Dynion perfaith yw y fath ymma ymhlith pobl, lle mae nhw yn aml hwy a fyddant yn well oi oblegit <hi>Gen.</hi> 5. ond odid ceit yno ddeg,<note place="margin">Abraham yn eiriol dros Sod.</note> yntef a ddywedodd nis difethaf er mwyn deg.</p>
+            <p>Ni ddyweded neb mae digon iddo wilied arno ei byn a pha<g ref="char:EOLunhyphen"/>ham raid iddo ymryſton ac eraill?</p>
+            <p>O, bydd i chwi glywed un dyn yn eich cablu, ne yn euch defen<g ref="char:EOLunhyphen"/>wi chwi eich hynain, fe ech cyffroir chwi yn y fan: ac a ddau er ddochwi g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ywed cablu, ac amharchu Duw, heb fod atnoc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i gyffro yn y byd? Yn hy<g ref="char:EOLunhyphen"/>trach os bydd ichwi glywed abſennu nu dd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmygu eich meiſtred tir ne ryw foneddigion eraill, chwi a gymmerwchy matter arnoch, ag a ſefwch oi plaid hwy yn y fan, ac a fydd balch gennych eich ſwydd, a hynni oblegit ei bod hwy yn wyr mawr, ag yn wyr de, yn alluog i wobrwyo ei gwaſunaethwyr, ac i ddial ar ei Gwath<g ref="char:EOLhyphen"/>wyneowyr;<note place="margin">Mal <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14.</note> ac y diw yn ofer gwaſannaethy Duw? Oni thal
+<pb n="15" facs="tcp:118002:10"/> efe ddimar? Oes dim ei law ef? a eill efe ddim, na drwg, na da, wele ddallineb ac unfydrwydd mawr gan bobl.</p>
+            <p>A oes arnochwi y fath eiddigedd glywed amharchu dynion y rhai yndodyd ni haedden amgen, ac onid oes arnochi gyf<g ref="char:EOLhyphen"/>fro yn y bid i glywed amharchu Duw 'r hwn ſydd ganmoladwy iawn drwy holl fyd, ac ni haeddu o nid clod gan bawb? <hi>Fel hyn y dywed yr Arglwydd Melldigedic fyddo 'r gwr a hyder o mewn dyn, ac a wnelo gnawd yn fraich iddo, ar hwn y cilio ei galon oddiwrth r' Arglcwydd,</hi> Jer. 17.5.</p>
+            <p>O eiſieu eich bod yn gwybod, ac yn medru odddiwrth Dduw yn well, yr ydech yn hyderu, ac yn b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lchio mewn dy<g ref="char:EOLhyphen"/>nion yn anrheſymol, pei medrechi b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>chi Duw yn iawn;<note place="margin">Na cifoledded neb newn dy<g ref="char:EOLhyphen"/>nion, 1 Cor. 3.21. Eſa. 65.17.</note> chwi a fedrech hefyd wybod pagymment a pha fodd y dylech barchu dynion, oblegit hynnu hefyd ſydd iawn yw wneuthur ond nid allan o feſur; <hi>Na or<g ref="char:EOLunhyphen"/>foledded neb mewn dynion</hi> 1 Cor. 3.21. <hi>Y nebm y fendigo ar y ddaiar ym fendig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d yn Nuw y gwirionedd,</hi> Eſa. 65.17.</p>
+            <p>
+               <hi>Diau (med y Pſalmud) mai cwbl gwaggedd yw pob dyn pan fo ar y goreu, Pſal.</hi> 39.5. Nid yw nai ddoeth<g ref="char:EOLunhyphen"/>ineb nai gy<g ref="char:EOLhyphen"/>foeth o ach<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s yr hyn 'r ydechwi yn ei fawr<g ref="char:EOLunhyphen"/>hau Cymmynt ond ond cyſgod gwag a thrafferch ofer, <hi>Pſal.</hi> 39.7.</p>
+            <p>Y Cymru anwyl pei profechwi a phai mor dda yw 'r Ar<g ref="char:EOLhyphen"/>glwypd, pei bae chwi unwaith yn gyddnabydd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ac ef, chwi a dawech a ſon am ddynion, ag a ſonniech am<g ref="char:EOLunhyphen"/>dano efe yn unic, ond oblegit nad ydech yn ei adnabod efe, yn jawn am hynnu 'r ydech yn camgymeryddynion hefyd.</p>
+            <p>Unic ddifyrwch y rhai a adwaenant Dduw uw ſon am<g ref="char:EOLunhyphen"/>da<g ref="char:EOLhyphen"/>no a mynegi ei weithredoedd, <hi>Pſal.</hi> 71.8.14, 16.<note place="margin">Unic ddiſyrt w'ch y rhai a adwaenaut Duw yw ſon am<g ref="char:EOLunhyphen"/>dani ef Pſ. 71.8.14, 16</note> 
+               <hi>Dy gyfi<g ref="char:EOLhyphen"/>awnder di yn unic a g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fiaf, fi.</hi>
+            </p>
+            <p>Un waith etto y Cymru crefyddol y deiſifwn arnochi ry<g ref="char:EOLunhyphen"/>biddio bawb ei gilidd, <hi>rhyl i idiwch y rhai afriolus, a byddwch amarhous wrth baw,</hi> 1 <hi>Theſ.</hi> 5.14. ac na ddywedwch mae ofer y fydd eich gwaith chwi, ac na wna gwyr ofer, a gweiſion ond eich gwatwar chwi; gadewch i hynny fod, ni fydd gwaeth arnochi rag a ſu ar y Seinteu och blaen chwi, ei gwatwar a gaeſant hwythau ganddynion, ond ei gwobr<g ref="char:EOLunhyphen"/>wyo gan Dduw, felly y cafodd <hi>Noah</hi> wrth rybiddio y byd pecha<g ref="char:EOLhyphen"/>dyrus oflaen y Diliw ei watwar ef y wnaeth y byd, ond pan
+<pb n="16" facs="tcp:118002:11"/> ddaeth r anghaffel ar bawb eraill efe a fy cadwid i gan Dduw, felly Lot oblegit nad oedd efe yn galiu dioddeu drygioni So<g ref="char:EOLhyphen"/>dom a watwarwyd ganthy ne hwy; ond pan ddaeth deſtriw arnynt hwy, efe a fy cadwedid, felly chwithauoni ddaw er<g ref="char:EOLhyphen"/>ddochwi rybyddio eich brodyr o gariad arnynt hwy, etto rhy<g ref="char:EOLhyphen"/>biddiwch hwy o gariad arnoch eich hunain, rhag i chwi drwy gyd-ddwyn a nhw, pan ddelo r amſer, gyd ddioddef hefyd.</p>
+            <p>Bydded yr un meddwl ynochi ac oeydd yn <hi>Samuel</hi> yr hwn pan ydoedd y bobl yn ei wrthod ef, ag yn ei amharchu ef, ni adawodd mo<g ref="char:EOLunhyphen"/>honynt, ae ni pheidiodd er hynnu i ewyllyſio yn dda, ac i wneuthur, y goreu yddynt, ei mae efe yn cydna<g ref="char:EOLhyphen"/>bod fod hynny yn gydwybodus iddo ag yn ddyledus arno. A minneu, na atto Duw ini bechu yn erbynyr Arglwydd, drwy beidio a gweddio troſſoch either dyſcaf ichwi y Ffordd dda ac union, 1 <hi>Sam.</hi> 12 23. felly er bodi rai och brodyr fod yn a<g ref="char:EOLhyphen"/>freolus eich gwyrthod, ac ich gwatwar chwi, etto na atto Duw i chwi beidio a gweddio troſtynt, ai cynghori hwynt.</p>
+            <p>Ac etto os ydiw yn anhawdd genychi fel hyn fod yn hy ar eich gilydd, or lleiaf dyſcwch bob un eu Deulu eu hun, a hyn<g ref="char:EOLhyphen"/>nu oblegit y tri rheſwm yma.</p>
+            <p>
+               <note place="margin">
+                  <p>Tri Rheſ. 1. wm pa<g ref="char:EOLunhyphen"/>ham ydyſc pob un eu deulu el hun: ac yn en<g ref="char:EOLhyphen"/>wedic pob tad eu blant.</p>
+                  <p n="1">1. Oblegit Duw.</p>
+                  <p n="2">2. Oblegit en hun.</p>
+                  <p n="3">3. Oblegit eu blant.</p>
+                  <p>Oblegit Duw.</p>
+               </note>yn gynta oblegit Duw. 2. yn ail ochplegit chwi eich hu<g ref="char:EOLhyphen"/>nain 3. yn drydydd oblegit eich plant.</p>
+            <p n="1">1. Yn gyntaf y mae yn ddyledus arnochi ddyſcu bob un eu deulu, ac yn enwedic eu blant oblegit Duw.</p>
+            <p>Yn hynnu y dangoſwch eich hunain yn F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yddlawn i Dduw, o rodd pa un eich gwnaethpwyd chwi yn Dadau ac felly he<g ref="char:EOLhyphen"/>fyd y byddw'chi yn gyfrifol, ac yn gymmeradwy gyda Duw, or a'chos yma yr ydoedd Abraham mor gymmeradwy gyda Duw, fel pan yddoedd Duw ar fedr diſtrywio Sodom, efe a wnaeth Abraham yn gydnabyddus ar hyn yr oedd efe ar fe<g ref="char:EOLhyphen"/>der i wneuthur, <hi>Gen.</hi> 18.19. <hi>Yr Arglwydd a ddywedodd a ge<g ref="char:EOLhyphen"/>laf fi rhag Abraham yr hyn a wnaf? Canys mi ai hadwaen ef y gorchymmyn efe iw blant, ac iw dylwyth ar ei ol gadw o<g ref="char:EOLunhyphen"/>honynt Ffordd yr Arglewydd, gan wneuthur Cyfiawnder a barn:</hi> oble<g ref="char:EOLhyphen"/>git hyn yma, ſef oblegit f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Abraham yn Dad Fyddlawn, y Cafodd efe yr henw i fod yn Dad y Fyddloniaid.</p>
+            <p>
+               <note place="margin">Oi plegit eu hunam.</note>Yn ail: mae yn ddyledus arnochi ddyſcu bob un ei Deu'u en hun ac yn enwedic pob tad eu blant oblegit eu hun
+<pb n="17" facs="tcp:118002:11"/>
+               <hi>Eph.</hi> 6.4. ei dyſcu hwynt nid yn unic mewn athrawiaeth ddy<g ref="char:EOLhyphen"/>nol neu gelfyddyd fydol, (Mau yn dda,<note place="margin">Eph. 6.4.</note> ac yn angenrhaid hynnu) ond yn ynwedic eu dyſcu hwynt, <hi>yn ofn, athrawiaeth yr Arglwydd.</hi>
+            </p>
+            <p>O eiſieu hyn y tyfodd y drwg arfer yma yn ein plith ni, ac heb hyn ni ddiwreiddir mohoni hi, er maent a allo y llywiaw<g ref="char:EOLhyphen"/>dwr gwledic neu yr gwenidog Egllwyſig i wneuthur; Chwi a welwch eich hunain, y rhai a ddyſcwyd yn blant, ac a arfer<g ref="char:EOLhyphen"/>wyd i ymadroddion da oi ieuengtid, yn hyddyſc ynddynt yn eu henaint, ac hwy a ddyſcant ei plant nhwythau, ond yn y gwrthwyneb, y rhai a eſguluſwyd gan ei tadau, ydynt yn ddifraw am<g ref="char:EOLunhyphen"/>danynt eu hunain ac yn ddigiewybod am ei plant ei mor anſyber ac na fynnant hwy ddyſcu moi plant gan eraill, ond hwy a fynnant adel eu plant megis ac y gadawyd nhwy<g ref="char:EOLhyphen"/>thau.</p>
+            <p>Gwelwch gryfed gw anuwioldeb ymlieth pobl ddywybod yn enwedic pan gerddo hi oddiwrth y tadau at y plant, mae hi yn awdurdedig, gwiliwch mrodyr rhag parhau yn hyn, rhag ichwi fod y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dadau drwg i blant drwg, yn Dadau anu<g ref="char:EOLhyphen"/>wiol i blant anuwiol ag ich plant ddwyn dialedd och plegit 'chwi, Canys pan ddelo pobl unwaith i fod yn ddibris am gadw duw yn eu gwybodaeth, y mae yn darford rhwng Duw ar bobl hynnu, <hi>ac efe ai rhydd nhw i fynu,</hi> Ruf. 1 28.</p>
+            <p>Yn drydydd, 3. mae yn ddyledus arnochi ddyſcu eich plant yn dduwiol, oblegit eich plant,<note place="margin">Oblegit eu plant.</note> Canys felly y darpar<g ref="char:EOLhyphen"/>w'chi yn oreu yddynt, gwell yddynt hwy hynnu na rhir na da, ac na golud, na c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yfoeth yn y byd, pa beth a ellw'chi well yddynt nai maethu ai dwyn i fynu i waſanaethu Duw? fel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y y dygonir hwy a phob daioni ac y gwaredir hwy oddiwrth bob drwg, ei chwi a gew'ch gomffordd oddiwrthynt ymhod yſtad, ac ymhob cyflwr, Gwyn ei fyd y gwr a ofna 'r Argl<g ref="char:EOLhyphen"/>wydd, ac fydd yn hoffi ei orchmynnion ef yn ddirfawr,<note place="margin">Pſal. 112.1, 2.</note> ei had fydd Cadarn ar y ddaiar; Cenhedlaeth y rhai uniawn a fendithir yn hytra'c 'chwi a fyddw'ch gwell oblegit eich plant yngwaſanaeth duw, <hi>Gen.</hi> 18.19. <hi>Canys mi a adwaen Abraham y gorchymmyn efe iw blant, ac yw dylwyth ar ei ol gadw o<g ref="char:EOLunhyphen"/>honynt Ffo dd yr Arglwydd, gan wneuthur Cyfiawnder, a barn: fel y dygr 'r Arglwydd ar Abraham yr hyn a le<g ref="char:EOLunhyphen"/>farodd efe am<g ref="char:EOLunhyphen"/>danaw'</hi>
+               <pb n="18" facs="tcp:118002:12"/> ac yn ſiccr pa fodd na bae un yn well er y neb y bae ei blant yn eu waſanaeth.</p>
+            <p>Chwi a welw'ch bob gwr bonheddig yn 'caru ac yn cydna<g ref="char:EOLhyphen"/>bod y Cyfryw rai ac ydynt o hil i hil, ac o d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d i dad yn glynu wrth ei dy ef, a hwythau ydynt yn falch ganthynt en bod yn p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rthun iddo, ymhob modd hwy a roddant barc'h ac anrhy<g ref="char:EOLhyphen"/>dedd iddo, ie hwy a ddyſcant ei plant iw fawrhau ac i Son yn barchus am<g ref="char:EOLunhyphen"/>dano, ac etto fe a ddych<g ref="char:EOLunhyphen"/>on ty or fath honno new dio, naill ai fe ddychon y ty fyned yn ol llaw, neu <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ddychon y bobl fyned yn llawgaled, pa faint gwell ydiw i bòbl o hil i hil, ac o genhedlaeth i genhedlaeth lynu wrth Dduw, a bod oi deulu ef, lle mae y fath hyfrydwch, y fath ddigonedd, y fath drefn, ar fath lywodraeth, ac lle ni ddy<g ref="char:EOLhyphen"/>chon fod Cyfnewid yn ybyd; a pha faint yn well y gweddu ichwi ddyſcu eich plant, iw fawr<g ref="char:EOLunhyphen"/>hau efe, ac i adroedd yn barchus am<g ref="char:EOLunhyphen"/>dano.</p>
+            <p>Yn ddiweddaf or dyſcwchi eich plant yn dduwiol ai goſod yngwaſanaeth Duw, chwi a fyddwch allan o ofall am<g ref="char:EOLunhyphen"/>da<g ref="char:EOLhyphen"/>nynt wrth ymad<g ref="char:EOLunhyphen"/>el ar byd, ac h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b hyn ni dd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chon cy<g ref="char:EOLunhyphen"/>foeth yn y byd a adawochi ar eich ol yddynt, ddiofalu mo-honochi oddiwrthynt,<note place="margin">Ei anrhydeddw yr anhrydedda duw, ai ddir<g ref="char:EOLhyphen"/>myga, a ddir<g ref="char:EOLhyphen"/>myga, 1 Sam. 2.30.</note> a chwedi yr elochi or byd, Chwi a fyddwch fyth mewn Coffadwria th dda gyda hwynt, <hi>Pſal.</hi> 112.6. ie a nhwythau a ddyſcant ei plant hefyd yn yr un mod<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ac felly y Cedwir Fordd yr Arglwydd yn eich plith chwi o genhedla<g ref="char:EOLhyphen"/>eth i genhedlaeth, fel yr adwaeno yr Arglcwydd Chwi megis yr adnabu efe Abraham,<note place="margin">Ymlith y pe<g ref="char:EOLhyphen"/>thau a a ber<g ref="char:EOLhyphen"/>thunent in hed<g ref="char:EOLhyphen"/>dwch ni Sanc<g ref="char:EOLunhyphen"/>teiddia henw Duw yw 'r peth Cynta.</note> ac y dygo ddaiom ar eich Cenhedlae<g ref="char:EOLhyphen"/>thau chw <hi>Amen.</hi>
+            </p>
+            <p>Y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Arglwydd a fadd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uo ini ein anwybodaeth an anyſtyria<g ref="char:EOLhyphen"/>eth hono hyd yn hyn, a dyw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o eu ybyd arnomni yn am<g ref="char:EOLhyphen"/>lach, ac yn helaethach o hyn a la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, fel yr adn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>byddom efe or mwyaf hyd y lle<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>f, a gynnalio eu drugaredd tu ac attom ni yn <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>b <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ni etto fel y gwnaeth efe hy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yn hyn.</p>
+            <p>
+               <note place="margin">Mae Criſt yn dyſcu <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> yn ein gweddi Sanctei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dia<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> henw duw c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n yr a'chom ni ddyfodia ei deyrnas ef.</note>Ac a gan adhan ini a adnabod a derbyn yn amſer hwn o ras a gwybod y pethau a b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rthun<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt in heddw h ni tra fyddo ein dydd ni etto yn pathau ac yn ynenwedic i ſancteiddio eu enw bendig d c ef yn wallad ar air ac ar weithred, fel y byddom ni yn addas iw deyrnas ef, yr bon ſydd beunydd yn dyfod nes gwyn ei fyd y bobl y ſyddo Cymmwys iw derbyn hi: <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="ten_commandments_interpreted">
+            <pb n="19" facs="tcp:118002:12"/>
+            <head>Y Deg Gorchymmyn ai Hyſtyriaeth.</head>
+            <p>Y Deg gorchymmyn a ranner yn ddwy-ran: Sef y gor<g ref="char:EOLhyphen"/>chymmyn mawr: ac ail gorchymmyn cyffelib iddo.</p>
+            <p>Yn y gorchymmyn mawr Cyn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hwyſer y pedwar gor<g ref="char:EOLhyphen"/>chymmyu Cynraf, yn yr hyn ein dyſch o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ein dyled tu ag at Dduw; Yn yr ail gorchymmyn y cynhwyſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r y chwech olaf, yn yr hyn ein dyſcer ni ein dyled tu ag at ein Cymmydog.</p>
+            <div n="1" type="commandment">
+               <head>Y gorchymmyn cyntaf ai hyſtyriaeth.</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Na fydded it Dduwiau eraill ger fy mron ei.</hi>
+                  </q> Yn y geiriau hyn yr ydem yn dyſcu, cydnabod y gwn D uw, ei addoli ef, credu ynddo, ei garu uwch law pob peth, ei ofni yn fwy na dim, a gobeithio ynddo efe yn unic.</p>
+            </div>
+            <div n="2" type="commandment">
+               <head>Yr ail gorchymmyn ai hyſtyriaeth.</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Na wna it ddelw gerfiedig, na llun dim ar y ſydd yn y nefo<g ref="char:EOLhyphen"/>eth uchod nac ar ſydd yn y ddaiar iſod,</hi> &amp;c. </q>Yn hyn yr ydem yn dyſcu ymwrchod a phob eulunaddoliaeth, a g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udduwia<g ref="char:EOLhyphen"/>eth, a phob <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ofer, ac anhrydeddu y gwir Dd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w yn y dull, ar wedd, ac y mae efe yn gorchymmyn yn ei air Sanctaidd.</p>
+            </div>
+            <div n="3" type="commandment">
+               <head>Y trydydd gorchymmyn.</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Na chymmer enw yr Arglwydd dy Duw yn ofer,</hi> &amp;c.</q> Yn y geiri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u hyn yr ydemni yn dyſcu ymwrtho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a phob cam-arfer, a diyſtyrwch ar enw Duw, ei ddoniau, ei air, ai weithredoedd.</p>
+            </div>
+            <div n="4" type="commandment">
+               <pb n="20" facs="tcp:118002:13"/>
+               <head>Y pedwerydd gorchymmyn.</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Cofia gadw yn Sanctaidd y dydd Sabboth.</hi>
+                  </q> Yn y gorchymmyn yma yr ydem yn yndyſcu gorphywys ar ddydd yr Arglcwydd oddiwrth ein meddyliau, ein geiriau, an gweithredoed bydol, a chynnal y dydd hwunw yn gwbl i ogoniant Duw, drwy ei waſanaethu efe yn enwedig ar y dydd hwnnw, nid yn unic pob un yn en deulu eu hun, ond pawb ynghyd yn un gynlleid<g ref="char:EOLhyphen"/>fa, yn Cyd-weddio: yn cydwrando, ac yn cyd-ralu diolch, hefyd ar y dydd hwnnw ni a ddylem wneuthur gweithredodd da ac angenrhaid yn unic, gweithredodd duwioldeb, a gwei<g ref="char:EOLhyphen"/>thredodd traga edd, fel y Caffom ni gwyfleu ac y roddo duw yr gallu nid nad yd w iawn ini waſanaeth Duw fel hyn ar ddy<g ref="char:EOLhyphen"/>ddi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u eraill ymhli<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ein holl trafferthau: ond ar y diwrnod hwnnw ni a dyl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m roddi heibio ein trafferthau ein hunain, a diſgwil ar yr un peth yma yn u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ic.</p>
+               <p>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bboth neu gadw diwrnod yn Sabboth yw nuilltuo a chyſ<g ref="char:EOLhyphen"/>ſegru diwrnod i orphywys oddiw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th eich gw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith eich hunain er mwyn bod yn ddirwyſtr oblegit pethau bydol, ac m gis yn rhw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m ar y diwrnod hwnnw yn enwedic i ddiſgwil ar wa<g ref="char:EOLhyphen"/>ſanaeth Duw, gan berchu ic anrhydeddu y diwrnod oblegit y gwaſanaeth. <hi>Exod.</hi> 16.13 <hi>Eſa.</hi> 58 13, Mae yn fawr gan ddynion duwiol am y dydd Sabbath er hyf<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dwch hwy yw, megis ac y mae efe yn dd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffus gan ddynion Cybyddus a dry<g ref="char:EOLhyphen"/>gionus, mae efe yn fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ganthynt, ac nid allant hwy aros wrtho Am 8.5. <hi>Pa bryd yr ay Sabboth heibeio?</hi>
+               </p>
+               <p>Gwae ni y Cym<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u ein gwaith ar dorri y Sabbothau gynt, drwy ddioddeu po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion ha, chwaryddion, neu Enterlutai, daw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſio a chanu,<note place="margin">Interludi.</note> meddwi, ac ymladd a phob anllywodraeth ar y dydd hwnw m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gis yn un-ſwyth, ac ar gwaith godd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u: or achos yma y mae llawer plwyf, a llawer Cynlleidfa yn ein plith ni heb na gwenidogaeth na Sabboth, ac yn awr llawer. heb ganthynt ddim iw wneuthur ar y dydd Sabboth ond chwareu, ac wele ni ddaw erddynt mohynnu fe a gymmerodd duw ymaith lawenydd on plith ni ynghyd ai waſanaeth: <hi>Hoſ.</hi> 2.11, 12, 13, &amp;c. <hi>Eſ.</hi> 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10. <hi>Jer.</hi> 7.34.</p>
+            </div>
+            <div n="5" type="commandment">
+               <pb n="21" facs="tcp:118002:13"/>
+               <head>Y pymmed gorchymmyn ai yſtyriaeth.</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Anrhydedda dy Dad, ath fam,</hi> &amp;c.</q> Yn hwn y mae pob rhyw, a gradd o Griſtianogion yn dyſcu eu dyled iw gilydd, y naill ir llall: Megis</p>
+               <p>Yn gyntaf y plant tu<g ref="char:EOLunhyphen"/>ag at y tadau, ar mammau: ar tadau,<note place="margin">Lege: dyled y bobl ir llywi awdwr a dyled y llywiaw ir bobl.</note> ar mammeu tu ag at y plant: Dyled y Llywiawdwr ir bobl, ar bobl ir llywiawdwr, Dyledſwydd y plwyfolion ir offeiriad, neu <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>' gweindog, ar offeiriad ir plwyfolion, y wraig ir gwr, ar gwr ir wraig: ieuengtid i henaint, a heniant i ieuengtid, y gwas ir meiſtr, ar meiſtr ir gwas, y tlawd ir Cyfoethog, ar Cyfoethog ir clawd.</p>
+            </div>
+            <div n="6" type="commandment">
+               <head>Y chweched gorchymmyn.</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Na ladd.</hi>
+                  </q> Yn hwn yr wyi yn dyſcu gochelyd pob peth ac a ddychon fyrhau enioes, neu beryglu bywyd fynghymmydog, neu fy enioes fy hun. Ie yr wyfi yn dyſcu ym<g ref="char:EOLunhyphen"/>mhellach arfer pob moddion Cyfreith<g ref="char:EOLunhyphen"/>lawn i faentumio at i gynnal fy mywyd fy hun, a bywyd fynghymmydog hefyd.</p>
+            </div>
+            <div n="7" type="commandment">
+               <head>Y ſeithfed gorchymmyn.</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Na wna odineb:</hi>
+                  </q> Yn hwn in dyſcer i ochelyd holl bechadurus chwantau y cnawd ar holl achoſion ſydd yn perthyn yddynt at ymarfer a phob moddion Cyfreithlon im cadw fy hun ac eraill mewn di<g ref="char:EOLhyphen"/>weirdeb.</p>
+            </div>
+            <div n="8" type="commandment">
+               <head>Yn wythfed gorchymmyn.</head>
+               <q rend="inline">
+                  <hi>Na ledratta.</hi>
+               </q>
+               <p>Yn hwn yr ydem ni yn dyſcu ochelyd gwneuthur cam ac era<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill, nac ymgyfoethogi drwy Ffyrdd anghyfiawn eithr gwei<g ref="char:EOLhyphen"/>thio yn ddyfal mewn galwedigaeth gyfreithlon, fel y gallom yn gywir ein maentumio ein hunain, an teuluodd, ac he<g ref="char:EOLunhyphen"/>blaw hynnu Cymmorth erail a fyddo mewn eiſieu.</p>
+            </div>
+            <div n="9" type="commandment">
+               <pb n="22" facs="tcp:118002:14"/>
+               <head>Y nawfed gorchymmyn</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Na ddwg gam diſtiolaeth yn erbyn dy gymmydog.</hi>
+                  </q> Yn y gorchymmyn hwn yr ydem yn dyſcu, nawnelom gam a neb, nac yn eu enw drwy ei enllibio efe yn ddirgel, nac yn ei dda, neu yn ei fywyd, drwy roddi Camdyſtiolaeth yn ei erbyn ef o flaen y Barnwr, ie yr ydem ni yn dyſcu yn y gor<g ref="char:EOLhyphen"/>chymmyn yma fod yn barod cyn belled at y gallom i atteb dros, eln Cymmydogion hyd y gallom gydar gwirionedd.</p>
+            </div>
+            <div n="10" type="commandment">
+               <head>Y degfed gorchymmyn.</head>
+               <p>
+                  <q rend="inline">
+                     <hi>Na chwennych dda dy gymmydog, na chwennych wraig dy gymmydog,</hi> &amp;c.</q> Yn hwn yr ydem ni yn dyſcu bod yn gwbl-fodlon in Cyflwr, an ſtat ein hunain heb gymmaint a thrachwantu yn ein Calonnau ddim ar a fyddo yn eiddo rhai eraill.</p>
+            </div>
+         </div>
+         <div type="excursus">
+            <pb n="23" facs="tcp:118002:14"/>
+            <head>Chwe pheth angenrhaid iw yſtyried er mwyn iawn Synnied or gorchmynnion yn giffredinol?</head>
+            <p n="1">1. YN gyntaf pa beth bynnag a fyddo un gorchymmyn yn ei erchu, y mae efe yn gwahardd ygwrthwyneb, a pha beth bynnag a fyddo un gorchymmyn yn ei wahardd, mae efe yn errchu y gwrthwyneb: Megis yn y trydydd gorchymmyn: Nachymmer ew yr Arglwydd dy Dduw yn ofer, y mae y gor<g ref="char:EOLhyphen"/>chymmyn yma wrth wahardd cymmeryd enw duw yn ofer, yn erchu ei anrhydeddu, ai Sancteiddio efe, yn yr un modd y mae duw eu hun yn eſponi, neu yn egluro y pedwerydd gorchymmyn, gwedi iddo erchu cadw y dydd Sabboth, y mae efe yn eberwydd yn gwahardd y gwrth<g ref="char:EOLunhyphen"/>wyneb, <hi>Ar y dydd hwnnw na wna ddim gwaith.</hi>
+            </p>
+            <p n="2">2. Yn ail: pa beth bynnag y mae y gorchmynnion yn ei waharddy mae nhw yn ei wahardd dros byth a phob amſer, megis na ddylem ni gymeryd henw duw yn o<g ref="char:EOLhyphen"/>fer un amſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, nac mewn un modd, na lladd, na godinebu nac yn ddigllawn, nac yn ddyddig, nac yn feddw nac yn Sobr: ond am yr hyn y mae y gocchmynnion yn ei erchu yr ydem ni yn rhwym i wneuththur hynnu dros byth ac hyd y diwedd, ond rid yn waſtadol a phob amſer: Megis yr ydem ni yn rhwym i gadw y Sabboth tra fyddom ni byw, ond nid amgen nac ar ei ddydd ei hun, yr ydem ni ar ddyddiau erall yn rhyddion oddiwrtho.</p>
+            <p n="3">3. Yn drydydd pa bechod bynnag y mae un gorchymmyn yn ei wahardd, y mae efe hefyd yn gwahardd pob pechod Cyffelib, a phob achluſur iddo: fel y mae Chriſt ei hun yn
+<pb n="24" facs="tcp:118002:15"/> eglurhau y chweched, y ſeithfed ar tryydydd gorchymmyn, <hi>Mat.</hi> 5. wrth argyhoeddi arthrawiaeth y Phariſeaid yn gwa<g ref="char:EOLhyphen"/>hardd lladd, a godinebu yn y weithred yn unic: a thyngu wrth henw Duw yn gelwyddog: y mae Chriſt yn dyſcu fod y neb a ddiggio yn ddiyflur yn euog, 21.22. ar neb a edrycho ar wraig iw chwennychu hi, yn godinebu, a bob y neb a dyngo oll yn ddiachos ar fai, 28.34, 35, 36, 37.</p>
+            <p n="4">4. Mae n rhaid ini gadw y pedwar gorchmynion cyn<g ref="char:EOLunhyphen"/>taf oi piegit ei hunain, canys nid o es dim fwy neu yn iwch na nhw, ond y gorchmynion eraill mae yn rhaid ini ei cadw oi plegit hwy, fel y mae Chriſt eu hun yn gwneithur rhagoriaeth rhwng y cyntaf ar ail Gorchymyn, y mae yn galw y naill yn orchywyn mawr, ar llall yn gyffellib iddo hynny ydw, m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gis yn pwyſo arno, ag yn cymmeryd eu rym, ai nerth oddiwrtho. Nid oe; dim o<g ref="char:EOLunhyphen"/>herwydd yr hyn y carwn ni Duw, ond efe eu hun canys nid oes dim yn fwy neu yn well nag efe, ond nid amgen nac o<g ref="char:EOLunhyphen"/>herwydd Duw y carwn ni ddyn ſef oblegit ei fod efe, <hi>wedi en wneithur ar lun Duw,</hi> Jaco: 3 9.</p>
+            <p n="5">5. Mae y fath garennydd, ar fath gymdeithas, rhwng y gorchmynnion, fel pwybynnag a gatwor gyfraith i gyd oll ag y ballo mewn un pwngc, y mae efe yn euog or cwbl <hi>Jac.</hi> 2.10, 11. obleg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t y mae y cwbl yn ſefyl ar yr un awdurdod, y neb a ddywedoedd na odineba a ddywedodd hefyd na ladd, gan hynny y neb ſydd yn troſſedu mewn un arall, nid yw efe yn cadw yr un oblegit Duw. Canys pe gwnae efe felly yr unawdurod ac a bereu iddo gadw un, ai cymhelleu efe hefyd i wneithur ei or<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u ar gadw 'r lleill,</p>
+            <p n="6">6. Mae y fath garennydd, ar fath gymdeithas, rhwng y gorchmynnion, nid yn unic y weithred oddiallan ond hefyd y meddwl ar ewyllus oddimmewn, y mae hi yn gofyn ei chyflawni yn berffath, ac mewn gwirionedd yr hyn nis gallwn ni ei wneuthur, o<g ref="char:EOLunhyphen"/>herwydd ein bod <hi>wedi ein llunio mewn an<g ref="char:EOLhyphen"/>wiredd,</hi> Pſal. 51.5.</p>
+            <p>A chan hynnu nid wrth ein gwaith yn cadw y gyfraith y mae ini ddiſgwil am iechydwriaeth, oud drwy gredu yn yr Arglwydd Jeſu, <hi>yr hwn a wnaethpwyd ini gan Dduw yn ddo<g ref="char:EOLhyphen"/>ethineb, ac yn gyfiawnder, ac yn Sancteiddrwydd ac yn Berynedi<g ref="char:EOLhyphen"/>gaeth,</hi> 1 Cor. 1.30.</p>
+            <p>
+               <pb n="25" facs="tcp:118002:15"/>Ac etto mi a fynnwn ichwi gofio <hi>na ddaeth Christ i dorri yr gyfraith, ond iw chyflawni hi.</hi> Mat. v. 17.</p>
+            <p>Ir neb y mae Chriſt yn ſancteiddrwydd, y mae efe yn San<g ref="char:EOLhyphen"/>cteiddiwr hefyd; y neb y mae efe yn ei brynnu drwy eu waed, y mae efe hefyd yn eu feddiannu drwy ei yſpryd, ac nid yw eu yſpryd ef yn ddiffrwth ddim, <hi>ond yn llawn Ffrwyth, ym mhob daioni, a chyfiawnder, a gwirionedd,</hi> Eph. v. 9. (Medd yr Apoſtol) <hi>y rhai ſydd eiddo Christ a groeſhoeliaſant y cnawd, ai wyniau ai chwantau,</hi> Gal. v. 24. y mae nhw yn dwyn cariad diragrith tu<g ref="char:EOLunhyphen"/>ag at Dduw, a chaſineb perffaith i bechod er maint a fyddo ymdrech y cnawd yn eu herbyn hwynt y mae nhw o ewyllus da ac oi gwir fodd yn rhoddi eu meddwl ar waſanaeth cyfraith Dduw, <hi>Rhuf.</hi> 7.15. ie nid yn unic i waſa<g ref="char:EOLhyphen"/>naythu ei gyfraith ef, ond hefyd i <hi>ymhyfrydi ynddi hi,</hi> Rhuf. 7.22.</p>
+            <p>Gan ddiolch bob amſer i dduw tad drwy ein harglwydd Jeſu Griſt am eu rhyddhau oddiwrth faych eu pechodau, ac oddiwrth gaethiwed, a melldith y gyfraith gan wneuthur y baych oedd drwm, yn yſcafn, ar iau oedd flin, yn eſmwyth; arhoddi yddynt waſanaethu Duw, a dynion, o wir gariad; a prof mhob modd beth ſydd gymeradwy gan yr Argl<g ref="char:EOLhyphen"/>wydd. <hi>Amen.</hi>
+            </p>
+            <p>Celfyddyd fach er cyfarwyddyd ir cyfryw rai or cymru ac ydynt yn ddiwid i wrando pregethau, ac yn ddyfal ei chwilio yr ſcruthuran fel ymedro nhw gwedd ar Bennod neu r Adnod a fo nhw yn ei geiſio neu a henwir <hi>id<g ref="char:EOLhyphen"/>dynt.</hi>
+            </p>
+            <p>
+               <pb n="26" facs="tcp:118002:16"/>
+               <note place="margin">
+                  <hi>Mark. 3.34</hi> Wele fy mam i am brodyr i. Ganis pwy byn<g ref="char:EOLhyphen"/>nag a wnelo e<g ref="char:EOLhyphen"/>wyllus Duw, bwnnw yw fy mrawd i am chwaer, am mam i.</note>Un.<seg rend="above">1.</seg> Dau.<seg rend="above">2.</seg> Tri.<seg rend="above">3.</seg> Pedwar.<seg rend="above">4.</seg> Pymp.<seg rend="above">5.</seg> Chwech.<seg rend="above">6.</seg> Saith.<seg rend="above">7.</seg> Wyth.<seg rend="above">8.</seg> Naw.<seg rend="above">9.</seg> Deg.<seg rend="above">10.</seg> Un-ar-deg.<seg rend="above">11.</seg> Deu ar-ddeg.<seg rend="above">12.</seg> Tri ar-ddeg.<seg rend="above">13.</seg> Ped-war-ar-ddeg.<seg rend="above">14.</seg> Pymptheg.<seg rend="above">15.</seg> Un-ar-bymtheg.<seg rend="above">16.</seg> Dau-ar-bymtheg.<seg rend="above">17.</seg> Tri-ar-bymtheg.<seg rend="above">18.</seg> Pedwar-ar-bymtheg.<seg rend="above">19.</seg> Ugain:<seg rend="above">20.</seg> Un-ar-hugain.<seg rend="above">21.</seg> Dau-ar-hugain.<seg rend="above">22.</seg>
+               <note place="margin">
+                  <hi>Yr oedd y Be<g ref="char:EOLhyphen"/>raeaid,</hi> yn fo<g ref="char:EOLhyphen"/>neddi geiddiach, nar rhai oedd yn Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſsalonica y rhai a dderbyn niaſant y gair gyda ph<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b pared rwydd meddwl, gan chwilio heu<g ref="char:EOLhyphen"/>uyd yr Scryth<g ref="char:EOLhyphen"/>hraiu, <hi>Acts 17 11</hi>
+               </note> Tri-ar-hugain, <hi>&amp;c.</hi>
+               <seg rend="above">23.</seg> Deg-ar-hugain.<seg rend="above">30.</seg> Deugain.<seg rend="above">40.</seg> Deg a-deugin.<seg rend="above">50.</seg> Trigain.<seg rend="above">60.</seg> Deg-a-thruigain,<seg rend="above">70.</seg> Pedwar-ugain.<seg rend="above">80.</seg> Deg-a phedwar-ugain.<seg rend="above">90.</seg> Cant.<seg rend="above">100.</seg> Neu y ganfed: ac felly am y lleill un ne'r cyntaf yr ail, y drydydd, <hi>&amp;c.</hi>
+            </p>
+            <p>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, &amp;c.</p>
+            <p>10. 20. 30. 40. 50. 60. 70. 80. 90. 100. 101, 102, 103, &amp;c.</p>
+            <p>
+               <note place="margin">Y garennydd oreu yw edrydu 1 Ghriſt, ar Boneddigr-wydd mwya yw bod yn gyd<g ref="char:EOLunhyphen"/>nabuddus yn<g ref="char:EOLhyphen"/>ei eiriau efe, heb hyn nid yw achau ond chw<g ref="char:EOLhyphen"/>edlau, 1 Tim. 1.4. ac nid yw Bonedd ond gwagedd.</note>I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV XVI, XVII, XVIII XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, &amp;c.</p>
+            <p>X. XX XXX. XL. L. LX. LXX. LXXX. XC. C.</p>
+            <p>Y nam yn unfed bennod deu-ugain o lyfr Genſis ar unfed adnod ar bym<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heg, <hi>Gen.</hi> 39.16. neu <hi>Gen.</hi> XXXIX. XVI. Yr nam yn unfed Pſalm ugain a chant ar nam yn unfed adnod triugain a chant <hi>Pſal.</hi> 119.159. neu <hi>Pſal.</hi> CXIX. CLIX. Yr ugainfed adnod o Epiſtol <hi>Jude, Jude</hi> 20. neu <hi>Jude</hi> XX.</p>
+         </div>
+         <div type="sermon">
+            <pb n="27" facs="tcp:118002:16"/>
+            <head>Y pedwaredd Gorchymmyn.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Exod. 20.8, 9, 10, 11.</hi>
+                  </bibl>
+                  <p>Cofia y dydd Sabboth iw ſancteiddio ef chwe diwrnod y gweithi ac y gwnei dy holl waith, ond y ſeithfed dydd yw Sabboth yr Arglwydd dy dduw, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>MAn rhyw odidowgrydd yn nailltuoll i bob gorchym<g ref="char:EOLhyphen"/>myn, yn enwedic i bob gorchymmyn or Aſtyllen gyn<g ref="char:EOLhyphen"/>taf, megis ir gorchymmyn ymma, mae yn nailltulol, ac yn briodawl iddo fod yn yſpus, ac yu eglur tros ben, lle mae y lleill yn cyhoeddi un rhan ac yn cynhwy ſo 'r llall, mae hwn yn cyhoeddi 'r ddwg ran, ac yn yſpyſu 'r cwbl.</p>
+            <p>Mae efe yn cyhoeddi yn gyntaf y peth y mae efe yn ei erchi a chwedi hynnu y peth y mae efe yn ei wahardd, ac or nailltu yn rhoddi rheſwm am bob un or ddau.</p>
+            <p>Yr hyn y mae efe yn ei erchu a gynhwyſir yn y geir au ym<g ref="char:EOLhyphen"/>ma; Cofia gadw yn ſanctaidd y dydd Sabboth, y rheſwm ſydd yn Canlyn fel hyn.</p>
+            <p>
+               <hi>Chwe diwrnodd y gweithi, ac y gwnei dy holl waith,</hi> M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e iti chwe diwrnod i weithio, yn 'r hyn y gwnei dy holl waith, gan hynnu Cadw yn ſanctaidd y dydd Sabboth.</p>
+            <p>Yr hyn a wahardder a gynhwyſir yn y geiriai hyn, <hi>Ond y ſeithfed dydd yw Sabboth'r Arglwydd dy dduw, na wna ynddo ddim gwaith.</hi> Y rheſwm am hyn ydiw<g ref="char:punc">▪</g> oblegit yr Arglwydd wneuthur ei holl waith mewn chwe diwrnod, a gorphywys o<g ref="char:EOLunhyphen"/>hono y ſeithfed dydd, Am hynnu y bedithiedd 'r Arglwydd y ſeithfed dydd ac ai ſancteid<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iodd ef (hynnu yd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w) efe ai nailltuodd, ac ai ordeiniodd efe yw gadw yn ſanct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i dd iddo ef.</p>
+            <p>
+               <pb n="28" facs="tcp:118002:17"/>Cofia y dydd Sabboth iw ſanctaiddo efe, <hi>&amp;c.</hi>
+            </p>
+            <p>Yn y Text ymma mae ichwi y Tri pheth hyn yw hyſty<g ref="char:EOLhyphen"/>ried:</p>
+            <p n="1">1. Fod un dydd o ſaith iw gadw yn Sabboth yr Argl<g ref="char:EOLhyphen"/>wydd.</p>
+            <p n="2">2. Pa fodd y Cedwir y Sabboth, ſanctidd ac yn ddi<g ref="char:EOLhyphen"/>waith.</p>
+            <p n="3">3. Pa<g ref="char:EOLunhyphen"/>ham y Cedwir y Sabboth, yn ſanctaidd; ſef ob<g ref="char:EOLhyphen"/>legit ir Arglwydd ei nailltuo ai ordeinio efe iw gadw felly.</p>
+            <p>
+               <hi>Otherwydd pa<g ref="char:EOLunhyphen"/>ham y bendithiodd yr Arglwydd y ſeithfed dydd ac a ſancteiddiodd ef.</hi>
+            </p>
+            <p>Yn gyntaf rhan gyntaf, ſef bod un dydd yn 'r wythnos yw gadw yn Sabboth ir Arglwydd.</p>
+            <p>Yn y rhan ymma chwi a yſtyriwch y tri pheth hyn:</p>
+            <p n="1">1. Ordinhad y Sabooth pa fath ydiw, ac oddiwrth pwy mae, ſef oddiwrth Dduw yn Ordinhad tragywyddol.</p>
+            <p n="2">2. Uſe a deunydd y dydd Sabboth, mae efe yn fuddiol mewn amriw o foddion, ond yn enwedic oblegit ywaſanaeth Duw yn hardd, ac yn barchedic yn y gyulleidfa.</p>
+            <p n="3">3. Jawnder a rheſwmoldeb y Sabboth, nid yw efe onid un dydd o ſaith, a hwnnw yw gadw ir Arglwydd, it hwn ſydd yn rhoddi ini ein holl ddyddiau.</p>
+            <p>Yn gyntaf or yſtyriaeth gyntaf, ſef Ordinhad y Sabboth, pa fath ydiw, ac oddiwrth pwy mae; (1) oddwrth Dduw yn O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinhad tragywyddol.</p>
+            <p>Yn y dydd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>au hyn nid oes <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gos ddim ac ſydd grefyddol nad ydiw m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddyliau anwadl, a phennau anyſcedic yn ei ammau, ei hyd yn oed y pader, y G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edo, ar d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g gorchymmyn, ac yn enwedic y gorchymmy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ymma, ynghylch y Sabboth.</p>
+            <p>Mae pawb yn Cyfadde fod y Sabboth wedi ei ordeinio gan Dduw,<note place="margin">Megis yn rhyd<g ref="char:EOLhyphen"/>dion ac yn a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ydd-did gennych megis Coh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l ma<g ref="char:EOLhyphen"/>lis eithr felgwa<g ref="char:EOLhyphen"/>ſana ethwyr Duw, <hi>1 Pet: 2 16</hi>
+               </note> ond medd thai, nid ord<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iniwyd ymhono ond dros amſer, a hynnu ir Iddewon yn unic; hwy a ddywedant fod Chriſtnogi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n yn rhyddion oddiwrtho, ac na ddylai nhw wneuthur rhagoriaeth rhwng y naill ddiwrnod ar llall, na chadw un dydd mwy nai gilydd.</p>
+            <p>Yn ſiwr mae nhw yn rhyddion yn y peth ymma, megis mawn pethau eraill or Cyffelib, ond mae yn ddyledus arnynt hwy
+<pb n="29" facs="tcp:118002:17"/> uſio ei rhyddyd yn hyn ac ymhob peth ar all er gogoniant, a gwaſanaeth Duw, yr hwn yw ein gwir fraint, an rhyd<g ref="char:EOLhyphen"/>ddid ni.</p>
+            <p>Ir rhai ſy yn Cymmeryd arnynt ammau, ac ymddadleu yn y Pwncc ymma, myfi a attebaf yn yr un modd, ac 'r atte<g ref="char:EOLhyphen"/>bodd ein Jachawndwr Chriſt ir Phariſaeaid <hi>Mnr.</hi> 10.2. pan ofynnaſant hwy iddo, a oedd rhydd i wr roddi ymmaith ei wraig? gan ddywedyd ddarfod i Foyſes ganhiattau ſcrifennu llytthur yſcar, ac felly ei gollwng hi ymmaith.</p>
+            <p>I hyn mae Chriſt yn atteb, mai o achos ei Calongaledwch hwy y ſcrifennaſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Moſes y gorchymmyn hwnnw ac nad felly 'r oedd or dechreuad.</p>
+            <p>Felly nimeu am y dydd Sabboth chwiliwn pa fodd 'r oedd or dechreuad, ac wele mae yn yſpus ddigon ddechreu or Sabboth, yn ddiatrec yniwedd gwaith y Creuedigaeth, Chwe diwrnod y gwnaeth 'r Arglwydd ei holl waith ac a orphywy<g ref="char:EOLhyphen"/>ſodd ar y ſeithfed dydd o<g ref="char:EOLunhyphen"/>herwydd pa<g ref="char:EOLunhyphen"/>ham fe a fendithiodd 'r Arglwydd. Y feithfed dydd, ac aiſancteiddiodd, ef, efe aiſancte<g ref="char:EOLhyphen"/>iddiodd ef nid iddo ei hun iw gadw (mae efe yn Cyfanneddu dedwddwch, a thragyw<g ref="char:EOLunhyphen"/>yddoldeb, ac felly yn Cadw Sab<g ref="char:EOLhyphen"/>both yn waſtad) ond ini iw gadw iddo ef, yr hwn a wnaeth ac a drefnodd bob peth.</p>
+            <p>Fe a ddechreuodd y Sabboth ymharadwys cyn bod pechod yn y byd, ac felly cyn bod na rhaid na gwybodaeth o Griſt, chan hynnu cyn bod na Ceremonie nac arwydd yn y bydo ho<g ref="char:EOLhyphen"/>no, cyn bod nac Iddew, na Groegwr, na chaeth na rhydd, nac un bath ar wahaniaeth yn y byd, gan hynnu nid ir Idde<g ref="char:EOLhyphen"/>won yn unic 'r ordeiniwyd y Sabboth, ond i holl bobl y byd, nid tros amſer chwaith ond tros byth.</p>
+            <p>Mae yn iawn ir peth ſydd or dechreuad barhau hyd y di<g ref="char:EOLhyphen"/>wedd.</p>
+            <p n="2">2. Yn ail mi a debygwn y dylai y Sabboth barhau yn wa<g ref="char:EOLhyphen"/>ſtad, wrth y rhagoriaeth ſydd rhwng y gyfraith foeſawl yr hon ſydd yn pathau yn dr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gywydd, a Deddf y gorchmynnion mewn ordeinhiadau, yr hon nid ydoedd i barhau ond tros amſer, <hi>Exod.</hi> 20.20.1, 2. <hi>&amp;c. Epheſ.</hi> 2.15. <hi>Deut.</hi> 4.13. efe ſef Duw ei hun a fynegodd ei gyfammod ſef y Dengair ac ai ſcri<g ref="char:EOLhyphen"/>fennodd hwynt.</p>
+            <p>
+               <pb n="30" facs="tcp:118002:18"/>Yn awr un or dengair, neu or deg gorchymmyn yw r dydd Sabboth, os amgen pa<g ref="char:EOLunhyphen"/>ham y ſcrifennwyd ef yn ei plith hwy? ac hebd<g ref="char:EOLunhyphen"/>do pa ie y ceir y dengair n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u y degorchymmyn?</p>
+            <p>
+               <note place="margin">Er hynnu os dyfal wran<g ref="char:EOLhyphen"/>deuch arnafi heb ddwyn<g ref="char:EOLhyphen"/>baich drwy byrth y ddinas hon ar y dydd Sabboth, &amp;c.</note>Mae efe mor naturiol, mor rheſwmmol, ac mor grefyddol, ac y mae y gorch<g ref="char:EOLunhyphen"/>mynnion eraill, a hyn ſydd yſpus, oblegit fod Duw, drwy enau ei Brophwydi yn addo gwobrwyoy rhai a gadwent ei Sabboth ef, <hi>Jer.</hi> 17.24. ac yn bwgwth dial ar y rhai ai torrent ef, <hi>Jer.</hi> 17.27. <hi>Ond os Chwi ni wrendy arnaf i ſan<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eiddio y dydd Sabboth,</hi> &amp;c.</p>
+            <p>Mae Cymmaint addewid ir gorchymmyn ymma ac i un or gorchmynnion eraill, a Chymmaint o ddialedd ir rhai ai tor<g ref="char:EOLhyphen"/>rant ef gan hynnu nid yw efe na llai, nac amgen nar lleill, <hi>Eſa.</hi> 56.1, 2 3, 4 5.6.7.</p>
+            <p n="3">3. Yr un ydiw y Gyfraith foeſawl, neu y deg gorchym<g ref="char:EOLhyphen"/>myn ar gyfraith naturiol, yr hon a ſcrifenaſid ynghalon dyn ar y cyntaf, ar gyfraith honno L'un a Delw duw ydoedd, yn awr ynuw nid oes dim dros amſer ond pa beth hynnac ſydd ynddo ef, tragywyddawl ydiw N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d yw Ceremonie ond tro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amſer, mae y gair Ceremonie yn ar<g ref="char:EOLunhyphen"/>wyddocau hynnu Cere<g ref="char:EOLhyphen"/>monie <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ac medd 'r Apoſt: at 'r Ephe<g ref="char:EOLhyphen"/>ſiaid, <hi>fe a ddirymmodd Chriſt y ddeddf honno, Eph.</hi> 2.18. ie a chymmaint ac oedd or Sabboth yn Ceremonial neu yn Dde<g ref="char:EOLhyphen"/>ddfol<g ref="char:punc">▪</g> hynnu ydiw yn nailltuol ir Iddewon a ddirym<g ref="char:EOLhyphen"/>mwyd hefyd.</p>
+            <p>Yn ſicc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mewn modd ir oedd y Sabboth yn nailltuol, ac yn rhan or gwah<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iaeth rhwngthynt hwy pryd hynnu a chen<g ref="char:EOLhyphen"/>he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> loedd y byd, nid oblegit nad oedd yn naturiol, ac yn rheſwmmoli holl genhedloedd y byd gadw y Sabboth megis ir Iddewon, ond obl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>git na fedrent hwy arno, ac nad oeddent yn ei chwennych ef, o eſieu i dduw adnewyddu ei gyfraith yddynt hwy megis ac y gwnaethe efe ir Iddewon, a gwaſcu ei calonnau hwy atti hi.</p>
+            <p>Mae rhagoriaeth hefyd rhwng 'r Iddewon yn cadw y Sab<g ref="char:EOLhyphen"/>both dan y gyfraith a nyni yn ei gadw ef dan 'r Efengil: yr oeddent hwy megis yn gaethion, ond nyni ydem rhyddion, h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b fod arnon amgen rhwymyn yn ai gadw ef ond fel y byddo Cymheſur, a chymmwys er gogoniant a gwaſanaeth Duw.</p>
+            <p n="4">
+               <pb n="31" facs="tcp:118002:18"/>4. Pa beth bynnac oedd yn Ceremonial yn unic, yn amſe<g ref="char:EOLhyphen"/>rol, ac yn nailltuol ir Iddewon, yn rhan o ddeddf y gorch<g ref="char:EOLhyphen"/>mynnion mewn ordeinhadau heb fod oflaen y ddeddf honno, ac heb fod uſe na deunydd yn y byd o<g ref="char:EOLunhyphen"/>hono ar ei hol hi hynnu a ddirymmwyd yn llwyr ac a d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſynwyd wrth Aberth Chriſt; ond y peth oedd oflaen y ddeddf honno, ac ſydd yn angen<g ref="char:EOLhyphen"/>rhaid, ac yn fuddiol ar ei hol hi, hynnu os bydd achos a ellid ei newidio ond ni ſymmydwyd ymhono, megis 'r Offeiria<g ref="char:EOLhyphen"/>deth neu'r weinidogaeth, ar dydd Sabboth 'r oedd yr Offei<g ref="char:EOLhyphen"/>riadeth yn rhwym ir Iddewon yn unic, ac yn ei plith hwy i lwyth Levi: yn awr mae 'r Leuiaid wedi ei troi heibio, ac etto mae 'r weinidogaeth yn parhau, yn 'r un modd y Sabboth a newidiwyd hefyd, o ddydd 'r Iddewon i ddydd 'r Arglwydd, ac felly y gelwir y Sabboth yn awr ſef dydd 'r Arglwydd Datcuddiad: 1.10.</p>
+            <p>Yn awry dydd ymma ydiw y dydd Cyntaf yn 'r wythnos, <hi>Act.</hi> 20. 1 <hi>Cor.</hi> 16.1. fel hyn mae yn yſpus nid yn unic fod dydd yw gedw yn Sabboth ond hefyd pa ddydd, Dydd 'r Arglwydd, y dydd Cyntaf or wythnos.</p>
+            <p>Er nad ydem ni yn rhwym i gadwr 'r Sabboth ymhob <hi>amgyl<g ref="char:EOLunhyphen"/>cheddau</hi> circumſtance yn 'r un modd ar Iddewon, etto o ran y <hi>ſylwedd</hi> ſubſtance, ſef ein ufudd-dod an gwaſanaeth ni i dduw, mae efe mor naturiol, mor rheſwmmol, ac mor angenrhaid ini 'r oedd efe ir Iddewon, mae mor naturiol, ac mor rheſwmmos ini gydnabod Duw yn Arglwydd ac oedd yddynt hwythau ei allu, ai ddoethineb ynglreuedigaeth y byd, yn lbywodraethu pob peth, ac yn enwedic yn prynnu ac yn gwaredu ei bobl.</p>
+            <p>Yn ſiccr fel y Clywſochi or blaen fe a ddywaid rhai na ddy<g ref="char:EOLhyphen"/>lai G<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtnogion wneuthur rhagoriaeth rhwng y naill ddiwr<g ref="char:EOLhyphen"/>nod ar llall, na chadw un dydd mwy nai gilydd, ond pob dydd a ddylai fod yn Sabboth i Griſtnogion, yn wir pob dydd a ddylai fodd yn ſanctaidd, ond ni ddychon pob dydd fod yn ddiwaith, tra fyddomni ymma, nid gwiw ini ddiſg wil y Sab<g ref="char:EOLhyphen"/>bath hwnnw nes cadw o<g ref="char:EOLunhyphen"/>honom ef yn hernas Dduw: <hi>Eſay</hi> 6.6. Ac am gadw pob dydd yn ſanctaidd, ſyweth 'r ydem ni ym<g ref="char:EOLhyphen"/>hell yn ol, ie ni ddaw erom ni gadw un dydd fel y dylem ni, tra 'r ydem ni ymma 'r ydem ni yn amherffaith, a chan hyn<g ref="char:EOLhyphen"/>nu mae yn rhaid ini wrth y Sabboth, y Weinidogaeth, Gy<g ref="char:EOLhyphen"/>nulleidfa,
+<pb n="32" facs="tcp:118002:19"/> y Sacramentau, ar Cyfriw foddion in Cymmell ni i dduwioldeb, a ſancteiddrwydd, tra fyddom ni yn amherffaith, mae yn rhaid ini wrth y moddion ymma, a perffaith nis byd<g ref="char:EOLhyphen"/>dwn, nes dyfod or hyn ſydd berffaith, yna y pethau ymma a ddeleuir, 1 <hi>Cor.</hi> 13 10.</p>
+            <p>Fel hyn y darfu imi ac Ordinhad y dydd Sabboth: efe a ordeiniwyd gan dduw ei hun, yr <hi>Arglwydd ai bendithiodd, ae ai ſancteiddiodd ef.</hi>
+            </p>
+            <p>Yn awr 'r wyfi yn dyfod at 'r ail yſtyriaeth ynyrhan gyntaf o'm Text, ſef uſe a deunydd y dydd Sabboth, (hynnu ydiw) i ba bwrpas y mae efe, a pha fudd ſydd o<g ref="char:EOLunhyphen"/>hono.</p>
+            <p>Mae 'r Sabboth yn fuddiol mewn amriw o foddion:</p>
+            <p n="1">1. Yn gyntaf er mwyn gogoniant duw, ei adoliad, ai waſa<g ref="char:EOLhyphen"/>naeth; Dymma 'r gydnabyddiaeth, neu ran or Deirnged 'r ydem ny yn ei dalu i dduw, drwy 'r hyn 'r ydem yn ei gydna<g ref="char:EOLhyphen"/>bod ef yn Arglwydd ini, wrth hyn 'r ydem ni yn Cydnabod ei fawr edd ai allu yn gwneuthur ac yn llywodraethu pob peth, ei ddo<g ref="char:EOLunhyphen"/>ethineb ai ddaioni hefyd yn trefnu pob peth in gwaſanaethu ni, a ninnau iw addoli ai waſanaethu ef yn unic.</p>
+            <p n="2">2. Mae y Sabboth yn fuddiol er mwyn arferu y moddion ac Ordinhiadau Duw iw waſanaethu ef, yn enwedic yn hardd, yn yſpus ac yn barchedic ynghyd ac yn y, gynulleidfa.</p>
+            <p>Yn ddiau ni a ddylem waſanaethu Duw bob amſer, ac ym<g ref="char:EOLhyphen"/>hob man, pan fyddomni yn y maes, ac ar ein gwaith, pan orweddomni i lawr, a phan godom ni i fynu, hwyr, a boreu, a chanol dydd, bob dydd, a phob pen awr, ſyweth nid oes un o<g ref="char:EOLunhyphen"/>honomni mor ddyfal yn hyn ac y dylem ni fod, a llawer o<g ref="char:EOLunhyphen"/>honomni ni waſanaethant dduw oll heb ei cymmell, megis drwy gyfraith y Sabboth neu 'r cyfriw fath yn hytrach er bod yn ddyledus arnom ni waſanaethu duw bob amſer ac ymhob man,<note place="margin">Chwe diwrnod y gwneir gwaith ar ſaithfed dyddy<g ref="char:EOLhyphen"/>bydd Sabboth gorphwyſdra, ſef Cymmanfa ſanctaidd.</note> etto ni a ddylem ryw amſer droi heibio ein gwaith i ddiſgwyll ar waſanaeth duw yn unic, a hynnn nid yn unic, yn nadillvol pob un wrtho ei hun, ond ynghyd ac yn y gynulleid<g ref="char:EOLhyphen"/>fa, yn awr mae 'r Sabboth (gan fod yn ddiwrnod pointiedic) yn gyfleus i hyn ac orachos yma y gelwir y Sabboth yn gym<g ref="char:EOLhyphen"/>manfa ſanctaidd, <hi>Lev.</hi> 23.2.</p>
+            <p n="3">3. Mae 'r Sabboth yn fuddiol er mwyn undeb a chydgordio yngwaſanaeth duw, yr hyn ſydd werthfawr ger ei fron ef,
+<pb n="33" facs="tcp:118002:19"/> medd Chriſt <hi>lle mae dau neu dri, &amp;c.</hi> Mat. 18.19, 20. <hi>trachefn meddaf ichwi os cydſynia dau o<g ref="char:EOLunhyphen"/>honoch,</hi> &amp;c.</p>
+            <p>Peth hyfryd i Griſtnogion ydiw gogoneddu duw yn un<g ref="char:EOLhyphen"/>fryd, ac o un genau Rhuf: 15.6.</p>
+            <p>Yn awr pe bae ni heb nac amſer, nalle pointiedic, i ym<g ref="char:EOLhyphen"/>gynnill ynghyd, pa anghyt tundeb a pha anghyſondeb a fydde yn ein gwaſanaeth ni? ond wrth gadw y Sabboth a dyfod yn<g ref="char:EOLhyphen"/>hyd ir un lle, a chyffeſſu 'r un ffydd, a derbyn 'r un Bedydd, a galw ar yr un Arglwydd, mae hyn yn achos, ac yn gyfleu i bery undeb, a chyſſondeb, rhwng Chriſtnogion, heb eſcluſo ein Cydgyn hulliad ein hunain, megis y mae arfer rhai, ond annog bawb ei gdydd, a chydyſtyried bawb ei gilyd i yman<g ref="char:EOLhyphen"/>yog i gariad, a gweithr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dodd da, <hi>Heb.</hi> 10.24.25.</p>
+            <p n="4">4. Mae y Sabboth yn fuddiol, oblegit wrth ei gadw ef 'r ydem ni yn dangos ein ffydd an hyder ynuw, 'r ydym ni yn darllen fod yn bointiedic ir Iſraeliaid gynt dair gwaith yn y flwyddyn fyned i fynu i Gaerſalem i gadw gwyliau ir Argl<g ref="char:EOLhyphen"/>wydd, llawer o<g ref="char:EOLunhyphen"/>honynt hwy yn dyfod o bell, ac yn gadel ei tai yn noethion, heb na gwyr nac arfau ynddynt, ond yn unic yr Arglwydd yn geidwad arnynt.</p>
+            <p>Felly ninneu wrth orphywys ar y dydd Sabboth, nid yn u<g ref="char:EOLhyphen"/>nic oddiwrth ein gwaith beunyddol, ond hefyd oddiwrth ein gofalon bydol, ac ymroi ar y dydd hwnnw yn unic i waſana<g ref="char:EOLhyphen"/>ethu dnw, gon roddi arno ef ddarparu ini, a gofalu troſom ni, 'r ydem ni yn dangos nid yn unic ein Ffydd, an hyder ynuw ond ein diolch garwch hefyd, gan gydnabod wrth gadw y dydd hwnnw mae efe ſydd yn rhoddi ini ein holl ddyddiau, a pob daioni a llwyddiant yn ein dyddiau.</p>
+            <p n="5">5. Mae 'r Sabboth yn fuddiol, er mwyn bod yn arwydd o Ffarr ac o ras duw tuag attomni, ac yn rhagoriaeth rhyngom ni ac Angriſtnogion, megis 'r Iddewon ac angrediniaid eraill, ie yn awr ſywaeth rhyngom ni angilydd, llawr o<g ref="char:EOLunhyphen"/>honom ni y Cymru yn bod heb na Sabboth, na modd iw gadw ef.</p>
+            <p>Yn ddiweddaf mae Cynhaliaeth y Sabboth yn fuddioll er mwyw arwyddocau ini y gorphywyſdra trag ywyddol 'r y<g ref="char:EOLhyphen"/>dem <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i yn ei obeithio ac yn ei ddiſgwyl yn y byd ſydd ar ddy<g ref="char:EOLhyphen"/>fod, mae pob nos Sadwrn ir dyn Crefyddol megis diwedd y byd trallodus hwn, mae efe yn gorphywys oddiwrth ei
+<pb n="34" facs="tcp:118002:20"/> drail ac yn bwrw ei ofal oddiwrtho, a phob bor eu ddydd-ſul (1) dydd 'r Arglwydd ſydd megis dechreuad byd newydd, oblegit y pryd hynnu mae efe yn ymbaratoi i gyfarfod yn y gynnulleidfa i foliannu, ac i waſanaethu duw fel hyn y gwel<g ref="char:EOLhyphen"/>wchi fod y dydd Sabboth yn fuddiol mewn amriw o foddion, mor fuddiol fel y mae ini achos nid i wrwgnach yn ei erbyn ef ond yn hytrach ei fendithio duw am<g ref="char:EOLunhyphen"/>dano, mae y Prophwyd Jeremiah wrth alaru ac achwyn oblegit barnedigaethau duw ar 'r Iſraeliaid yn ei caethiwed, yn goſod hyn yn <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r barnedi<g ref="char:EOLhyphen"/>geathau mwya ſef darfod ir Arglwydd <hi>anrheithio ei Babell dini<g ref="char:EOLhyphen"/>strio lleodd y gymmanfa, a pheru anghofio yn Sion yr uchel-wyl ar Sabboth,</hi> &amp;c. Galarnad. 2.6.</p>
+            <p>Yn awr 'r wyfi yn dyfod at y dryddydd yſtyriaeth yn y rhan gyntaf om Text, ſef Iawnder a Rheſwmmoldeb y dydd Sabboth.</p>
+            <p>Nid ydiw efe ond un dydd yn 'r wythnos, a hwnnw iw gadw ir Arglwydd ein duw yr hwn ſyd yn rhoddi pob peth ini iw mwynhau.</p>
+            <p>Yn ſiccr fe a ddychon y diafol ein temptio ni yn hyn megis ac y temptiod efe y wra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g ar y Cyntaf ynghylch y pren gwa<g ref="char:EOLhyphen"/>harddedic, pa beth oedd y pren hwnnw amgen na phrennau eraill? a phab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th oedd 'r ar afal hwnnw amgen nac afalau ereill? a pha niwed oedd ynddo? 'r oedd efe yn deg olwg, ac yn felus yn fwyd, ni waharddaſe dduw mor pren hwnnw amgen na phrennau eraill, ond iw caethiwo hwy, ac a gym<g ref="char:EOLhyphen"/>meryd awddurdod iddo ei hun, felly meddaf y dychon i dia<g ref="char:EOLhyphen"/>fol ein temptio ninnau ynghylch y Sabboth pa beth ydiw y diwrnod hwnnw amgen na diwrnodiau eraill? yn wir ni byd<g ref="char:EOLhyphen"/>deu efe amgen oni bai fod gorchymmyn duw yn goſod rhag<g ref="char:EOLhyphen"/>oriaeth ac yn ei nailltuo ef iw waſanaeth.</p>
+            <p>Dyſcwni atteb ir Diafol yn hyn nid megis r' attebodd y wraig iddo, ond magis r' attebodd Joſeph iw fieſtres Gen. 39.9. <hi>Wele nid oes neb fwy yn y ty hwn na myfi ac ni waeharddodd fy Meiſtr ddim rhagor onid tydi, oblegit ei wraig ef wyti<g ref="char:punc">▪</g> pa fodd y gallaf gan hynnu wneuthur y mawr ddrwg hyn a phechu yn erbyn duw.</hi>
+            </p>
+            <p>Felly ninneu nid oes neb fwy yn y byd hwn na nyni, fe a oſododd duw bob peth dan ein dwylaw ni, ac ni chadwodd
+<pb n="35" facs="tcp:118002:20"/> efe ddim oddiwrrhymni ond yn unic ei ogoniant ai waſana<g ref="char:EOLhyphen"/>eth ef, gan hynnu pa fodd y pallwn ni yr hyn ſydd yn perthyn iw ogoniant, ai waſanaeth ef, ac y pechwn ni yn ei erbyn ef, na ddywedwn mai 'r Eſcobion o amſer i amſer a oſo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſant y Sabboth ymma arnomni ein Caethiwo ni, ac iw mawrhau ei hunain, mae 'r peth o<g ref="char:EOLunhyphen"/>hono ei hun yn naturiol, yn iawn, ac yn rheſwmmol yn perthyn ei ogoniant, ac ei waſanaeth duw.</p>
+            <p>Fel hyn y darfu imi ar rhan gyntaf om Text ſef fod un dydd or wythnos iw gadw yn Sabboth ir Arglwydd yn yr hyn 'r adroddwyd Ordinhad y Sabboth ei uſe ai ddeunydd, ei Iawnder, ai Reſwmmoldeb.</p>
+            <p>Ac yn awr 'r wyfi yn dyfod at 'r ail rhan om Text ſef pa fodd y cedwir y Sabboth, <hi>viz.</hi> hynnu yw yn ſanctiadd, ac yn ddiwaith.</p>
+            <p>Sanctaidd yn y fan ymma 'r un ydiw a Chyſſegredic, neu beth wedi ei nailltuo er mwyn gwaſanaeth duw, yn y gwrth<g ref="char:EOLhyphen"/>wyneb ir hyn ſydd gommon a Chyffredin, <hi>Zech.</hi> 7.3.</p>
+            <p>Sancteiddio y Sabboth yw ei gyſſegru, ai nailltuo ef gan oſod rhagoriaeth rhwngtho ef a dyddiau eraill gan orphywys oddiwrth ein gwaith, i gynnal, ac i berchu gwaſanaeth duw.</p>
+            <p>Mae cynhaliaeth y dydd Sabboth yn ſefyl yn y ddau beth hyn, 1. yn gyntaf, mewn gor<g ref="char:EOLunhyphen"/>phywyſdra oddiwrth waith. 2. Yu eil wrth arferu y moddion, a gwneuthur y dyledion a berthynant i ſancteiddrwydd a duwioldeb.</p>
+            <p>Nid ydiw ein gorphywyſdra Corphorol, hynnu ydiw gadel ein gwaith, ond y rhan leia o gynhaliaeth y Sabboth y rhan bennaf ac anwedic ydiw, arferu y moddion, a gwneuthur y dyledion a berthynant i ſancteiddrwydd, a duwioldeb, er mwyn hyn 'r ydem yn gorphywys, ſef er mwyn gallu o<g ref="char:EOLunhyphen"/>honom yn well, ac yn harddach arferu y moddion, a gwneuthur y dyledion hynnu; etto er nad yw ein gorphywyſdra ni ar y dydd Sabboth ond y rhan leia oi gynhaliaeth ef, mae hynnu yn rhan, ac mor angenrhaid, fel nad elir cadw Sabboth, neu ddydd yn wyheb hynnu; ſef heb orphywys, ie mae gorphy<g ref="char:EOLhyphen"/>wyſdra mor berthynaſol ir S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bboth fel y gelwir <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f nid y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unic yn Sabboth y gymmanſa ſanctaidd ond hefyd yn Sab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth y gorphywyſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra <hi>Lev.</hi> 23.3.</p>
+            <p>Gan hynn wrth gadw y Sabboth mae yn rhaid ini orphywys
+<pb n="36" facs="tcp:118002:21"/> megis y mae ymma yn fynhexti, ac nid nyni yn unic, ond ein plant, ein gweiſion. ein morwynion, ein dieithriaid ie ein anifeiliaid hefyd, mae Duw Creawdwr pob peth yn darparu ir rheini y rhai a <hi>ddar oſtynwyd i oferedd:</hi> Rhuf: 8.23. a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wele 'r Sabboth ymma yddynt hwy megis yn arwydd or rhydd-did ſydd i ddyfod.</p>
+            <p>Mae 'r gorphywyſdra ymma yn ſefyll mewn tri pheth:</p>
+            <p n="1">1. Yn gyntaf oddiwrth bechod, heb hyn ni Chydnebydd duw ein bodni yn Cadw un Sabboth neu un dydd yn wyl iddo ef, megis y dywedodd duw am ympryd yr Iddewon, <hi>Zech</hi> 7.5, 6. nid iddo ef 'r oeddent yn ympridio ond yddynt ei hunain, a hynnu oblegit ei bod yn anufydd yn anghyfiawn, yn anrhigarog, ac yn ddrwg ei bwriaid, ac etto yn Cymme<g ref="char:EOLhyphen"/>ryd arnynt orcheſtu i gadw ympryd, ac fel y dywedodd duw am Aberthau, gwiliau a Sabboth au 'r Iſraeliaid: <hi>Eſ.</hi> 1. pan oeddant megis yn gorcheſtu yn y pethau ymma, ac etto yn parhau yn anufydd, ac yn ddrygionus, madd duw <hi>pwy a geiſi<g ref="char:EOLhyphen"/>odd y pethau ymma ar eich dwylaw chwi?</hi> anwiredd ydynt mae nhw yn gas gan fy enaid, <hi>&amp;c.</hi> felly y dywaid efe am ein Sab<g ref="char:EOLhyphen"/>both ninneu, y Cyfriw rai o<g ref="char:EOLunhyphen"/>honom ac ydem yu rhyfygu dy<g ref="char:EOLhyphen"/>fod ir gynnulleidfa, a <hi>ſengi ynghynt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddau</hi> duw a chymmeryd arnom ei waſenaethu, ef heb ymolchi, ac ymla<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hau; heb bei<g ref="char:EOLhyphen"/>dio a gwneuthur drwg, a rhoddi ein bryd ar yr hyn ſydd dda, <hi>Eſ.</hi> 1.16 17.</p>
+            <p>Ni a ddylem yn ddiau gadw pob dydd yn Sabboth yn y modd ymma ſef drwy beidio a gwaeuthur drwg, ond ar y diwrnod ymma yn enwedic ni a ddylem ymolchi ac ymlan<g ref="char:EOLhyphen"/>hau, obleg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ein bod ni yn Cyfarfod ar Arglwydd megis yn y mynydd, ſef yn y gyndlleiofa, ac yn neſſau atto ef yn ei wa<g ref="char:EOLhyphen"/>ſanaeth.</p>
+            <p n="2">2. Mae yn rhaidi ni ar y dydd Sabboth orphywys oddiwrth ein gwaith arferol, oddwrth weithredoedd ein galwadiga<g ref="char:EOLhyphen"/>eth, oddiwrth y moddion, 'r ydem yn ei harferu, ar ddyddi<g ref="char:EOLhyphen"/>au erailli geiſio ein lluniaeth, ain golud, an Cyfoeth, ni ddy<g ref="char:EOLhyphen"/>lem ni na chario beichiau, na chaſclu, na phrynu, na gwerthu na marchnattn mewn un modd na y dydd hwn, Diwrnod Marchnad 'r Enaid yw y diwrnod ymma, mae yn rhaid ir Enaid wrth ymborth yn gyſtal ar Corph, gan hynnu mae yn
+<pb n="37" facs="tcp:118002:21"/> rhaid ir enaid wrth farchnad yn gyſtal ar Corph, <hi>Eſ.</hi> 55.1. <hi>Nid bydd byw dyn ar fara yn unic ond ar pob gair ac ſydd yn dy<g ref="char:EOLhyphen"/>fod allon o enau duw,</hi> gan hynnu mae yn rhaid bod amſer i wrendo, ac i dderbyn y gair hwnnw.</p>
+            <p n="3">3. Mae yn rhaid ini <hi>orphywys oddiwrth wneuthur ein ffyrdd ein hunain, a cheiſio ein ewyllus ein hunain a dywedyd ein giriau ein hunain</hi> Eſ. 58.13.</p>
+            <p>Ni ddylem ni gimmaint a meddylied, neu ddefeiſio ein matterion bydol, ond ymnailltuo ar y diwrnod ymma i wa<g ref="char:EOLhyphen"/>ſanethu duw, gan fod yn hoff gennym ni yr amſer, ar Cyfl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u, <hi>Pſal.</hi> 122.1s</p>
+            <p>Fel hyn y darfu imi ar modd cyntaf i gadw y dydd Sabboth ſef drwy orphywys oddiwrth waith, ar y dydd hwnnw na wna ddim gwaith, ac yn awr 'r wyfi yn dyfod at 'r ail modd i gadw y dydd Sabboth ſef drwy arferu y moddion y mae duw gwedi ei ordeinio ini i neſſau atto, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i gynhyddu wrthynt.</p>
+            <p>Y moddion ymma ſy amryw, megis pregethiad, a gw<g ref="char:EOLhyphen"/>randawiad y gair, gweddi, canu mawl, a thalu diolch a chyn fynyched ac y byddo cyfleus, Gwe<g ref="char:EOLunhyphen"/>inidogaeth y Sacramentau, nid nad ydiw yn iawn ac yn angenrhaid arferu y moddion ym<g ref="char:EOLhyphen"/>ma ar dyddiau eraill, a rhay o<g ref="char:EOLunhyphen"/>honynt hwy beunydd, megis gweddi, canu mawl, talu diolch ar cyfriw fath ond mae yn iawn ac yn angenrhaid hefyd fod rhyw amſer yn bointiedic ir gwaſanaeth ymma yn hardd ac y barchedic, yn yſpus ac yn am<g ref="char:EOLhyphen"/>lwg, ynghyd, ac yn y gynulleidfa.</p>
+            <p>Fod y moddion ymma yn arferol yn hardd, ac yn barche<g ref="char:EOLhyphen"/>dic, yn yſpus, ac yn amlwg, yn enwedic ar dydd Sabboth gan bobl dduw ymhob oes, ymhob Cenbedlaeth mae yn yſ<g ref="char:EOLhyphen"/>pyſſach nac y bydde raid dwyn undyſtiolaeth, etto ni a edry<g ref="char:EOLhyphen"/>chwn ar bob un or nailltu ac yn gyntaf Pregethiad, a gwrand<g ref="char:EOLhyphen"/>awiad y gair: fod y gwaſanaeth ymma yn arferol yn Eglwyſe dduw yn r hen amſeroedd, mae yn eglur wrth eiriau 'r Apo<g ref="char:EOLhyphen"/>ſtol Jaco, <hi>Act.</hi> 15.21. <hi>Canys y mae i Moſes ymhob dinas, er yr heu emſeroedd, rai ai poegethant ef, gan fod yn ei ddarllen yn y Synagogau bob Sabboth,</hi> ac Act 13.15. <hi>Ac yn ol darllein y gy<g ref="char:EOLhyphen"/>fraith, ar P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ophwydi, Rywodraethwyr y Synagog a anfonaſant attynt, gan ddywedyd, Ha-wyr frodyr od oes gennych air o gyngor ir bobl traethwch:</hi> fe a weddeu fod y Gwaſanaeth ymma yn
+<pb n="38" facs="tcp:118002:22"/> yr hen amſer yn anferol, ac yn yſpus ddigon, pan ddigon, pan ddywedai lly<g ref="char:EOLunhyphen"/>wedraethwhr y Synagog wrth Paul ac gymdei<g ref="char:EOLhyphen"/>thion od oes gednych air o gyngor traethwch.</p>
+            <p>Mae yn yſpyſach etto fod y gwaſanaeth ymma yn arferol yn amſer yr Efengl ymhob oes, ay ymhob Cenhedliaeth, o ddy<g ref="char:EOLhyphen"/>ddiau 'r Apoſtolion hyd y dyddiau ymma ei fod ef yn arferol ynuddiau' Apoſtolion mae yn eglur, Act. 20.7. <hi>Ac ar y dydd Cyntaf or wythnos wedi ir diſcyblion ddyfod ynghyd, &amp;c.</hi> ei fod ef yn arferol hefyd yn y Brif Eglwys yma Juſtin Martyr yn tyſtiolaethu am ei amſer ef, ar ar ei ynteu yn Tertullian, ae fel<g ref="char:EOLhyphen"/>ly ymlaen hyd y dyddiau ymma.</p>
+            <p>Yn ſicrr yn amſer y Pap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts nid oedd y gwaſanaeth ymma mor ddyfal, ac yn ein amſer ninneu nid oedd efe mor ddyfal, ac y dylaſe efe fod, ie ac etto yn y dyddiau hyn y mae efe yn brin iawn yn llawer man ymhlith y Cymru, lle mae fe rhei<g ref="char:EOLhyphen"/>tia yna mae fe prinna y modd, neu y peth neſa iw arferu yn hardd ac yn barchedic yn y gyulleidfa ar y dydd Sabboth yw gweddi, ac ynghyd a gweddi ni a gydſylltwn, Canu mawl, a thalu diolch ob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egit yn ddiau ni ddychon y rhain lai na bod yngh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, Medd 'r Apoſtl Paul, <hi>Parheuch mewn gweddi, gan wiliad ynd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i gyd a diolchgarwch,</hi> Col. 4.2.</p>
+            <p>An I chawdwr Chriſt ei hun yn y weddi a oſododd efe iw ddyſcyblion, ac wrth 'r hon y mae efe yn dyſcu yddynt hwy weddio, y mae efe yn diweddu y weddi honno drwy roddi mawl gogoniant i dduw, <hi>Eind Tad 'r hwn wyt,</hi> &amp;c. <hi>Canys eidd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ti yw 'r deyrnas, &amp;c.</hi> Mat. 6.13. Yn yr un modd y Pſal<g ref="char:EOLhyphen"/>mudd agos ymhob Pſalm lle mae efe yn dechreu a gweddi y mae efe yn diweddu d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wy ganu mawl a thalu diolch, <hi>Pſ.</hi> 6 54.1, 2, 6, 6, 7, 56.1.12, 13, 59.1 2, 16 17.</p>
+            <p>Fod gweddi yn waſtad yn gwaſanaeth duw nid oes neb yn ammau, ie mae Gweddi mor berthynaſol i waſanaeth duw, fel o achos hynnu y gelwir ty dduw yn <hi>dygweddi,</hi> Mat. 21.13:</p>
+            <p>Y trydydd peth iw arferu yn hardd, ac yn barchedic yn y gynulleidfa an y dydd Sabboth yw y Sacramentau<g ref="char:punc">▪</g> ſef a Be<g ref="char:EOLhyphen"/>dydd os Swpper yr Arglwydd fod Swpper yr Arglwydd yn arferol yn amſer yr Apoſtolion mae yn yſpus. Act. 20.7. <hi>Ac ar y dydd cyntaf or wythnos wedi ir diſcyblion ddyfod ynghyd i dorri barra‘</hi> &amp;c.</p>
+            <p>
+               <pb n="39" facs="tcp:118002:22"/>Ei fod ef yn anferol yn y Briſ Eglwys mae yn hyſpus i bawb, yn gyntaf bob wythnos<g ref="char:punc">▪</g> a chwedi hynnu bob mis, ac yn ein plith ninneu efe a barhaodd bob tymmor neu bob Chwarter hyd y dyddiau ymma yn y rhai ſywaeth mae rhai gwedi Colli, a rhai eraill wedi newidio ei Crefydd.</p>
+            <p>Y Bedydd hefyd a weddeu yn oreu ar ddydd 'r Arglwydd ac yn y gynulleidfa, nyd wyfi yn dywedyd amgen nad ellir ar achoſion weini pob un or ddau Sacrament ymma ar ddyddiau eraill, ac mewn mannau eraill, megis ir Cleifion i rai gwei<g ref="char:EOLhyphen"/>naid, &amp;c.</p>
+            <p>Fel hyn y darfu ini ar aid rhan om T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſef y modd y mae ini gadw y dydd Sabboth, <hi>viz.</hi> yn ſanctaidd ac yn ddi<g ref="char:EOLhyphen"/>waith, 1. yn gyntaf mae yn rhaid ini orphywys, 2. yn ail mae yn rhaid ini gadw Cymmanfa neu gynulleidfa ſanctaidd drwy arferu y Moddion ar Ordeinhiadau y mae Duw gwedi ei rhoddi er ei waſanaeth ef an adeiladaeth ninneu, 3. yn dry<g ref="char:EOLhyphen"/>dydd y dyleſwni ddywedyd hefyd) drwy waeuthur y gweithredoedd a berthynant i ſancteiddrwydd a dduwiol<g ref="char:EOLhyphen"/>deb.</p>
+            <p>Y mae rhyw bethau yn lywiedic ini iw gwnaethur ar y dydd Sabboth megis y pethau ſy angenrhaid i gynnal, i gadw, neu i achub ein bywyd ein hunain neu fywyd ein Cymmudogion ie a bywyd ein anifeiliaid, ſef os happia yddynt hwy gwympo i ryw anghyfleu, nad allaſe ddarparu yn ei erbyn or blaen, nac ar os ymhellach heb'ei hachut hwy, megis os bydd yddynt hwy ſyrthio i Bwll, neu 'r Cyfriw fath, <hi>Mat.</hi> 12.11, 12, 13.</p>
+            <p>Mae rhyw bethau yn orchmynnedic iw gwneuthur yn gy<g ref="char:EOLhyphen"/>ſtal ar y dydd Sabboth ac ar ddyddiau eraill, ac yn ſiccr da y gweddeu hwy ar y dydd Sabboth a gweithredoedd Sabboth ydynt hwy, megis gw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithredoedd Eluſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndod, a thrugaredd, gweithredodd Defoſiwn hefyd a duwioldeb, Caſclu ir elodion 1 <hi>Cor.</hi> 16.1 2. Tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fnu a darparu pethau angenrhaid tu-ag at waſanaeth duw, ymweled ar Claf, Cynnorthwyo y weddw, ar ymddifaid y truen hefyd ar gorth<g ref="char:EOLunhyphen"/>rymmedic, 1 <hi>Tim.</hi> 6.18. <hi>Tit.</hi> 3.8 <hi>Zech.</hi> 7 9, 10. <hi>Eſ.</hi> 1.23.</p>
+            <p>Y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> awr mai yn canlyn y dryddydd rhan om Text, Pa<g ref="char:EOLunhyphen"/>ham y Cedwir y Sabboth yn ſanctaidd, ſef oblegit ir A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>glwydd ei
+<pb n="40" facs="tcp:118002:23"/> nailltuo ai ordeinio ef iw gadw felly ond nid rhaid imi moch blino chwi ar rhan ymma om Text oblegit fe ai cynnhwyſer hi yn rhangyntaf ni fydde raid ini mor ſon am y Sabboth oni bae ir Arglwydd ei fendithio ai ſancteiddio ef. Ac etto Cyn darfod rhoddwch imi gennad ich Cofio chwi ar fyrr eiriau am eich ymddygiad ynhy dduw ac wrth ei waſanaeth ef 1. yn gyntaf oddifewn yu eich meddwl, ac yn eich yſpryd thyngo<g ref="char:EOLhyphen"/>chi a Duw, 2. oddiallan yn eich Cyrphai yn eich ymmarwed<g ref="char:EOLhyphen"/>diad yngwydd y gynulleidfa.</p>
+            <p>Yn y meddwl, ac yn yr yſpryd mae yn rhaid ichwi yn gyn<g ref="char:EOLhyphen"/>taf ymbartoi, gan ennyn dawnau, a rhadau duw ynoch, fel y gallochi ddywedyd gydar Pſalmudd, <hi>Parod yw fynghalon O dduw parod yw fynghalon mi a ganaf, ac a ganmolaf.</hi>
+            </p>
+            <p>Yd ail mae yn rhaid ichwi fod yn dwys, ac yn ddyfal ar y gwaſanaeth, gan geiſio Duw ach holl fryd, ac ach holl feddwl, os amgen nid ydechi ne fer a wneloch yn eich Cyrph, a che<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bron dynion: <hi>Yſpryd yw duw a rhaid yr rhai ai addolunt ef, addoli mewn yspryd, a gwirionedd, ar Cyfryw y mae 'r Tad yn eu Ceſio iw addoli ef,</hi> Iohn 4.24.23.</p>
+            <p>Nid nad ydiw yn iawn ini addoli duw yn ein Cyrph hefyd, oblegit duw a wnaeth y Corph ar yſpryd, eiddo ef yw 'r ddau, gan hynnu efe a fyn ei ogeneddu yn y ddau, 1 <hi>Cor.</hi> 6.20.</p>
+            <p>Ond yr yſpryd ſydd yn enwedic, lle byddo 'r yſpryd fe a fyydd y Corph, hyd y gallo, ac lle nis gallo nid rhaid wrtho.</p>
+            <p>
+               <hi>I ychwedic y mae arfer corphoro yn fuddiol:</hi> Tim. 1.4, 8. wrth ei hun ni hal hi ddim, <hi>Eſa.</hi> 12.13, 14. &amp;c. ynghyd a Duwioldeb y mae hi yn fuddiol i ychydic, hynnu ydiw yn ei modd, ai dull ei hun, nid ydiw hi ddim oblegit duw o<g ref="char:EOLunhyphen"/>herwydd yſpryd yw ef, ond oblegit dynion y rhai ſy yn barnu yn ol y golwy oddi allan, ac felly yn derbyn addiladaeth neu rwyſtr megis yman nhw yn gweled gan hynnu bydded eich ymdugiad Chwi nid yn unic oddifewn, ond hefyd oddiallan yn y gynnulleidfa ac wrth waſanaethu duw y fath ac y wed<g ref="char:EOLhyphen"/>deu ir fan honno ac ir gwaſanaeth hwndw, 1 <hi>Timoth.</hi> 2.9, 10. <hi>Eccl.</hi> 5.1, 2. <hi>Gwylia ar dy droed pan fyddech yn myned i dy dduw,</hi> &amp;c.</p>
+            <p>
+               <pb n="41" facs="tcp:118002:23"/>Yn gyffredinol mae yn rhaid ich ymddygiad chwi yn y gy<g ref="char:EOLhyphen"/>nulleidfa fod yn oſtyngedig, yn hardd, ac y barchedic, a hynnu nid yn unic ar y gwaſanaeth, ond hefyd wrth fyned, ac wrth ddyfod, wrth ddechreu, ac wrth ddiw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddu gan ymgrymmu ac addoli.</p>
+            <p>Pa le bynnac 'r ydem ni yn darllen am waith y Seintieu gynt yn addoli r ydem ni yn darlleu he fyd ei bod hwy yn ymgrym<g ref="char:EOLhyphen"/>mu megis Nehem. 8.6. <hi>Ac Ezra a fendithiodd yr Arglwydd y Duw mawr ar holl bobl a atteb<g ref="char:EOLunhyphen"/>aſant Amen, Amen gan dde<g ref="char:EOLunhyphen"/>rchafu eu dwylo; a hwy a ymgrymmaſant, ac a addolaſant r Ar<g ref="char:EOLhyphen"/>glwydd ai hwynebau tu ar ddair</hi> 2 <hi>Cron.</hi> 6.3.12.13</p>
+            <p>Mae ymgrymmu ac addoli mor berthynaſol iw gilydd fel y goſoder hwy yn waſtad ynghyd.</p>
+            <p>Pan demptiodd y Diafol Ghriſt iw addoli ef, y mae efe yn goſod y ddau beth ymma ynghyd, fel ymgrymmu ac addoli, <hi>Matth.</hi> 4.9. <hi>hyn all a roddaf, iti os ſyrthy i l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wr am haadoli i.</hi>
+            </p>
+            <p>Ie y mae Duw eu hun yn goſod y naill lle neu dros y llall, megis na bae nhw ond yr un peth i Brenhinoedd. 29.18 <hi>Ac mi a adewais yn Iſrael ſaith o filoedd, y rhai ni phlygaſant eu gly<g ref="char:EOLhyphen"/>nnau i Baal.</hi>
+            </p>
+            <p>Ac medd y Pſalmudd <hi>Deuwch, addolwn a ſyrthiwn i lawr a goſtyng wn ger bron r Arglwydd ein gwneuthur wr.</hi>
+            </p>
+            <p>Tra fyddochi ar y gwaſanaeth, mae yn iawn ich ymar<g ref="char:EOLunhyphen"/>wediad chwi fod yn gyfaddas ir gwaſanaeth fyddochi yn ei wneuthur megis pan fyddochi yn gweddio, yr hyn waſanaeth ſydd yn ſefyll mewn dau beth yn enwedic ſef goſtyngeiddr<g ref="char:EOLunhyphen"/>wydd, a go<g ref="char:EOLhyphen"/>baith, yn awr fe ddylai eich ymddugiad chwi yn y gwaſanaeth ymma <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od yn addas ir ddwyrinwedd hyn. 1. yn gyntaf yn addas i o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tyngeiddrwydd, gan noethi eich pennau, a phlygu glinnau, 2. yn ail yn addas i obaith, gan dderchafu eich llygaid a lledu eich dwylo:</p>
+            <p>Yn ſicer: am fod yn Bennoethion wrth weddio, y mae 'r arfer honno etto yn gyffredinol yn ein plith in (ond yn hyn 'r ydem ni yn rhwymedic ir Coegddoethion ar Crach-ddyſce<g ref="char:EOLhyphen"/>dic,) nad ydynt hwy yn Cymmeryd rhyddid yn hyn megis, mewn pethau eraill, oblegit nad oes un gorchymmyn yn 'r Efengil yn erchu hyn mwy na phethau eraill or fath, ond wrth wrando y gair y mae llawer iawn yn gwiſco am ei pennau yn
+<pb n="42" facs="tcp:118002:24"/> gwneuthur Cuchiau, yn Cibo ei haeliau, yn gwaſcu ei dannedd, yn gwatwar, ac yn Chwerthin, yn gwneuthur pob anwe dde<g ref="char:EOLhyphen"/>idd-dra, a phob drwg yſtym dan gyſcod ei hettiau,</p>
+            <p>Mi a delygwn na ddylai fod nemor o ragoriaeth rhwng ein ymddugind ni yr y naill mwy nac yn y llall, y naill 'r ydem ni yn gwrando ar dduw yn llefaru wrthyn ni yn gweinidogaeth ei air.</p>
+            <p>Mae 'r Apoſtol Paul yn Cydſyllen y ddau ymma ynghyd, ac yn Cynghori Chriſtnogion i fod yn oſtyngedic eu ymar wed<g ref="char:EOLhyphen"/>diad wrth bob un or ddau, 1 <hi>Cor.</hi> 21.4.</p>
+            <p>Yn ddiau nid oes un gorchymmyn i Ghriſtnogion i ddioſc eu pennau nec wrth weddio, nac wrth wrando, ond megis y mae 'r Apoſtl yn eich Cymmell chwi, Bernwchi eich hunain pabeth ſydd naturiol, pabeth ſydd reſwmmol, pabeth ſydd weddus a ſyber yngwaſanaeth duw yn yr Eglwyſ ac yngwydd y gynulleidfa,</p>
+            <p>Fe ddychon pobl ſefyll wrth weddio os gwelant hwy yn dda, nid yw hynnu anweddus, neu wrthwynebus ddim, ond gweddeiddiach ywpenlinio, ond eiſtedd wrth weddio ni ddy<g ref="char:EOLhyphen"/>lai bobl oll, oddiethr mewn rhyw anghyfleu;</p>
+            <p>Wrth bregethu neu wrando y gair fe a weddeu ini ſefyll neu eiſtedd fel y gwelom ni yn dda <hi>Mar.</hi> 3.32 <hi>Lu.</hi> 5.17.</p>
+            <p>Am y Sacramentau mae ei dull, ai ffaſwin hwy yn dangos pa fath ymmddugiad a weddiu yddynt hwy</p>
+            <p>Yn y pethau ymma nid wify yn rhoddi ichwi i or<g ref="char:EOLunhyphen"/>chymmyn yn y byd, ond ich Cynghori chwi i wneuthur pob peth yn<g ref="char:EOLhyphen"/>gwaſanaeth duw yn drefus, ac yn weddus, ac na oſodo neb achos tramgwydd neu rwyſtr iw frawd, ond dilyn o bawb <hi>y peth au a berthynent i heddwch;</hi> Rhuf. 14.19.</p>
+            <p>Dyſced y rhai ſy gryfion gynnal gwendid y rhai gweiniaid, ac nid rhyngu ei bodd eu hunain <hi>Boddhaed pob un o<g ref="char:EOLunhyphen"/>honom ei gymmydog yn yr hyn ſydd dda iddo radeiladaeth</hi> Rh. 15.2. <hi>Gwne<g ref="char:EOLhyphen"/>ler pob peth yn weddaidd ac mewn trefu.</hi> Cor. 14.40.</p>
+            <trailer>TERFYN.</trailer>
+            <closer>Δόξα τῷ θεῷ μόνῳ.</closer>
+            <pb facs="tcp:118002:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
